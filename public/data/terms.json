@@ -1,0 +1,4712 @@
+[
+  {
+    "en": "AC - Alternating Current",
+    "ru": "Переменный ток",
+    "uz": "O‘zgaruvchan tok"
+  },
+  {
+    "en": "Acceleration",
+    "ru": "Ускорение",
+    "uz": "Tezlanish"
+  },
+  {
+    "en": "Acceptance certificate",
+    "ru": "Свидетельство о приёмке",
+    "uz": "Qabul qilish guvohnomasi"
+  },
+  {
+    "en": "Accuracy",
+    "ru": "Точность",
+    "uz": "Aniqlik"
+  },
+  {
+    "en": "Active components",
+    "ru": "Активные компоненты",
+    "uz": "Faol komponentlar"
+  },
+  {
+    "en": "Adequacy",
+    "ru": "Адекватность",
+    "uz": "Adekvatlik"
+  },
+  {
+    "en": "Adequate risk reduction",
+    "ru": "Достаточное снижение риска",
+    "uz": "Yetarli xatarni kamaytirish"
+  },
+  {
+    "en": "Ads (automatic disconnection of supply)",
+    "ru": "АОП (автоматическое отключение питания)",
+    "uz": "Ta’minotning avtomatik uzilishi"
+  },
+  {
+    "en": "Aerodynamics",
+    "ru": "Аэродинамика",
+    "uz": "Aerodinamika"
+  },
+  {
+    "en": "Aeronautical Engineering",
+    "ru": "Авиационная инженерия",
+    "uz": "Aeronavtika muhandisligi"
+  },
+  {
+    "en": "Aerospace Engineering",
+    "ru": "Аэрокосмическая инженерия",
+    "uz": "Aviakosmik muhandislik"
+  },
+  {
+    "en": "Agitator",
+    "ru": "Мешалка",
+    "uz": "Aralashtirgich"
+  },
+  {
+    "en": "Air core",
+    "ru": "Воздушный сердечник",
+    "uz": "Ochiq o‘zak"
+  },
+  {
+    "en": "Aircraft",
+    "ru": "Самолёт",
+    "uz": "Samolyot"
+  },
+  {
+    "en": "Airflow",
+    "ru": "Воздушный поток",
+    "uz": "Havo oqimi"
+  },
+  {
+    "en": "Airworthiness",
+    "ru": "Лётная годность",
+    "uz": "Uchishga yaroqlilik"
+  },
+  {
+    "en": "Allowance for corrosion",
+    "ru": "Запас на коррозию",
+    "uz": "Korroziyaga qarshi zaxira"
+  },
+  {
+    "en": "Alloy",
+    "ru": "Сплав",
+    "uz": "Qotishma"
+  },
+  {
+    "en": "Alternating Current",
+    "ru": "Переменный ток",
+    "uz": "O‘zgaruvchan tok"
+  },
+  {
+    "en": "Alternating current (a.c.) circuit",
+    "ru": "Цепь переменного тока",
+    "uz": "Ўзгарувчан ток занжири"
+  },
+  {
+    "en": "Altitude",
+    "ru": "Высота",
+    "uz": "Balandlik"
+  },
+  {
+    "en": "Ammeter",
+    "ru": "Амперметр",
+    "uz": "Ampermetr"
+  },
+  {
+    "en": "Amp",
+    "ru": "Ампер, сила",
+    "uz": "Amper, kuch"
+  },
+  {
+    "en": "Ampere",
+    "ru": "Ампер",
+    "uz": "Amper"
+  },
+  {
+    "en": "Amplitude modulation",
+    "ru": "Амплитудная модуляция",
+    "uz": "Amplitudaviy modulyatsiya"
+  },
+  {
+    "en": "Analog communication",
+    "ru": "Аналоговая связь",
+    "uz": "Analog aloqa"
+  },
+  {
+    "en": "Analog electronics",
+    "ru": "Analog elektronika",
+    "uz": "Аналоговая электроника"
+  },
+  {
+    "en": "Analog modulation",
+    "ru": "Аналоговая модуляция",
+    "uz": "Analog modulyatsiya"
+  },
+  {
+    "en": "Animal manure",
+    "ru": "Навоз животных",
+    "uz": "Hayvon go‘ngi"
+  },
+  {
+    "en": "Annexes",
+    "ru": "Приложения",
+    "uz": "Ilovalar"
+  },
+  {
+    "en": "ANSI - American National Standards Institute",
+    "ru": "Американский национальный институт стандартов",
+    "uz": "AQSh milliy standartlar instituti"
+  },
+  {
+    "en": "Appliance",
+    "ru": "Прибор, приспособление",
+    "uz": "Asbob, moslama"
+  },
+  {
+    "en": "Appliances",
+    "ru": "Бытовая техника",
+    "uz": "Maishiy texnika"
+  },
+  {
+    "en": "Applied voltage",
+    "ru": "Приложенное напряжение",
+    "uz": "Qo‘yilgan kuchlanish"
+  },
+  {
+    "en": "Approval stage",
+    "ru": "Этап утверждения",
+    "uz": "Tasdiqlash bosqichi"
+  },
+  {
+    "en": "Approved term",
+    "ru": "Утверждённый термин",
+    "uz": "Tasdiqlangan termin"
+  },
+  {
+    "en": "Aqueous slurries",
+    "ru": "Водные суспензии",
+    "uz": "Suvli suspenziyalar"
+  },
+  {
+    "en": "Armature",
+    "ru": "Арматура",
+    "uz": "Armatura"
+  },
+  {
+    "en": "Artificial organ",
+    "ru": "Искусственный орган",
+    "uz": "Sun’iy organ"
+  },
+  {
+    "en": "Artificial photosynthesis",
+    "ru": "Искусственный фотосинтез",
+    "uz": "Sun’iy fotosintez"
+  },
+  {
+    "en": "Assembly data",
+    "ru": "Данные о монтаже",
+    "uz": "Montaj ma’lumotlari"
+  },
+  {
+    "en": "Assistive technology",
+    "ru": "Вспомогательная технология",
+    "uz": "Yordamchi texnologiya"
+  },
+  {
+    "en": "ASTM - American Society for Testing and Materials",
+    "ru": "Американское общество по испытаниям и материалам",
+    "uz": "Sinov va materiallar bo‘yicha Amerika jamiyati"
+  },
+  {
+    "en": "Astronautical Engineering",
+    "ru": "Космическая инженерия",
+    "uz": "Astronavtika muhandisligi"
+  },
+  {
+    "en": "Atomic power plant",
+    "ru": "Атомная электростанция",
+    "uz": "Atom elektr stansiyasi"
+  },
+  {
+    "en": "Audit",
+    "ru": "Проверка",
+    "uz": "Tekshiruv"
+  },
+  {
+    "en": "Authentication",
+    "ru": "Аутентификация",
+    "uz": "Autentifikatsiya"
+  },
+  {
+    "en": "Autopilot",
+    "ru": "Автопилот",
+    "uz": "Avtopilot"
+  },
+  {
+    "en": "Auxiliary structures",
+    "ru": "Вспомогательные структуры",
+    "uz": "Yordamchi tuzilmalar"
+  },
+  {
+    "en": "Avionics",
+    "ru": "Бортовая электроника",
+    "uz": "Bort elektronika tizimi"
+  },
+  {
+    "en": "Bachelor of Engineering",
+    "ru": "Бакалавр инженерии",
+    "uz": "Muhandislik bakalavri"
+  },
+  {
+    "en": "Bandwidth",
+    "ru": "Пропускная способность",
+    "uz": "O‘tkazuvchanlik qobiliyati"
+  },
+  {
+    "en": "Base station",
+    "ru": "Базовая станция",
+    "uz": "Tayanch stansiya"
+  },
+  {
+    "en": "Battery charger",
+    "ru": "Зарядное устройство для аккумулятора",
+    "uz": "Akkumulyator zaryadlovchi"
+  },
+  {
+    "en": "Battery pack",
+    "ru": "Аккумуляторный блок",
+    "uz": "Akkumulyator bloki"
+  },
+  {
+    "en": "Bearings",
+    "ru": "Подшипники",
+    "uz": "Podshipniklar"
+  },
+  {
+    "en": "Big bag",
+    "ru": "Биг-бэг",
+    "uz": "Katta qop"
+  },
+  {
+    "en": "Biocompatible prosthetics",
+    "ru": "Биосовместимые протезы",
+    "uz": "Biomos keluvchi protezlar"
+  },
+  {
+    "en": "Biofuel",
+    "ru": "Биотопливо",
+    "uz": "Bioyoqilg‘i"
+  },
+  {
+    "en": "Bioinformatics",
+    "ru": "Биоинформатика",
+    "uz": "Bioinformatika"
+  },
+  {
+    "en": "Biological raw material",
+    "ru": "Биологическое сырье",
+    "uz": "Biologik xom ashyo"
+  },
+  {
+    "en": "Biomass",
+    "ru": "Биомасса",
+    "uz": "Biomassa"
+  },
+  {
+    "en": "Biomaterials",
+    "ru": "Биоматериалы",
+    "uz": "Biomateriallar"
+  },
+  {
+    "en": "Biomechanics",
+    "ru": "Биомеханика",
+    "uz": "Biomexanika"
+  },
+  {
+    "en": "Biomedical engineering",
+    "ru": "Биомедицинская инженерия",
+    "uz": "Biomedikal muhandislik"
+  },
+  {
+    "en": "Biomedical Equipment Technician (BMET)",
+    "ru": "Техник по медицинскому оборудованию",
+    "uz": "Tibbiy uskuna texnigi"
+  },
+  {
+    "en": "Biomedical optics",
+    "ru": "Биомедицинская оптика",
+    "uz": "Biomedikal optika"
+  },
+  {
+    "en": "Biomedical sensor",
+    "ru": "Биомедицинский датчик",
+    "uz": "Biomedikal datchik"
+  },
+  {
+    "en": "Bionics",
+    "ru": "Бионика",
+    "uz": "Bionika"
+  },
+  {
+    "en": "Biopharmaceuticals",
+    "ru": "Биофармацевтические препараты",
+    "uz": "Biofarmatsevtik mahsulotlar"
+  },
+  {
+    "en": "Bit / Byte",
+    "ru": "Бит / Байт",
+    "uz": "Bit / Bayt"
+  },
+  {
+    "en": "Blade",
+    "ru": "Лопасть турбины",
+    "uz": "Turbina pichog‘i"
+  },
+  {
+    "en": "Blast furnace",
+    "ru": "Доменная печь",
+    "uz": "Domna pechi"
+  },
+  {
+    "en": "Blow",
+    "ru": "Дуть",
+    "uz": "Puflamoq"
+  },
+  {
+    "en": "Boundary layer",
+    "ru": "Пограничный слой",
+    "uz": "Chegara qatlami"
+  },
+  {
+    "en": "Brain-computer interface",
+    "ru": "Интерфейс мозг-компьютер",
+    "uz": "Miya-kompyuter interfeysi"
+  },
+  {
+    "en": "Breaking capacity",
+    "ru": "Отключающая способность",
+    "uz": "O‘chirish kobiliyati"
+  },
+  {
+    "en": "Bronze Age",
+    "ru": "Бронзовый век",
+    "uz": "Bronza davri"
+  },
+  {
+    "en": "Brush",
+    "ru": "Щётка",
+    "uz": "Schotka"
+  },
+  {
+    "en": "BTU or British thermal unit",
+    "ru": "Британские тепловые единицы",
+    "uz": "Britaniya issiqlik birliklari"
+  },
+  {
+    "en": "Bulb light",
+    "ru": "Лампочка",
+    "uz": "Chiroq"
+  },
+  {
+    "en": "Burning fossil fuel",
+    "ru": "Сжигать ископаемое топлива",
+    "uz": "Qazilma yoqilg‘isini yoqmoq"
+  },
+  {
+    "en": "Bus bar of the substation",
+    "ru": "Шины подстанции",
+    "uz": "Podstansiya shinalari"
+  },
+  {
+    "en": "Buzzer",
+    "ru": "Зуммер",
+    "uz": "Зуммер"
+  },
+  {
+    "en": "Calculated pressure",
+    "ru": "Расчетное давление",
+    "uz": "Hisobiy bosim"
+  },
+  {
+    "en": "Calculated wall temperature",
+    "ru": "Расчетная температура стенки",
+    "uz": "Hisobiy devor harorati"
+  },
+  {
+    "en": "Capacity",
+    "ru": "Емкость, вместимость",
+    "uz": "Sig‘im, xajm"
+  },
+  {
+    "en": "Capturing energy",
+    "ru": "Улавливание энергии",
+    "uz": "Energiyani tortib olish"
+  },
+  {
+    "en": "Carbon",
+    "ru": "Углерод",
+    "uz": "Uglerod"
+  },
+  {
+    "en": "Carbon fuel cell",
+    "ru": "Углеродный топливный элемент",
+    "uz": "Uglerodli yonilg‘i elementi"
+  },
+  {
+    "en": "Carbon steel",
+    "ru": "Углеродистая сталь",
+    "uz": "Uglerodli po‘lat"
+  },
+  {
+    "en": "Cast iron",
+    "ru": "Чугун",
+    "uz": "Chugun, Quyma temir"
+  },
+  {
+    "en": "Casting",
+    "ru": "Литье",
+    "uz": "Quyish"
+  },
+  {
+    "en": "Caution",
+    "ru": "Осторожно",
+    "uz": "Ehtiyot choralari"
+  },
+  {
+    "en": "CD - Committee Draft",
+    "ru": "Проект комитета",
+    "uz": "Qo‘mita loyihasi"
+  },
+  {
+    "en": "Cell",
+    "ru": "Элемент батареи",
+    "uz": "Батарея элементи"
+  },
+  {
+    "en": "Ceramic",
+    "ru": "Керамика",
+    "uz": "Keramika"
+  },
+  {
+    "en": "Ceramics",
+    "ru": "Керамические материалы",
+    "uz": "Keramika materiallari"
+  },
+  {
+    "en": "Certificate",
+    "ru": "Сертификат",
+    "uz": "Sertifikat"
+  },
+  {
+    "en": "Certificate ISO (International Organization for Standardization)",
+    "ru": "Сертификат ISO",
+    "uz": "ISO sertifikati"
+  },
+  {
+    "en": "Certificate of conformity",
+    "ru": "Сертификат соответствия",
+    "uz": "Moslik sertifikati"
+  },
+  {
+    "en": "Certification",
+    "ru": "Сертификация",
+    "uz": "Sertifikatsiya"
+  },
+  {
+    "en": "Certification test",
+    "ru": "Сертификационное испытание",
+    "uz": "Sertifikatlash sinovi"
+  },
+  {
+    "en": "Chain reaction",
+    "ru": "Цепная реакция",
+    "uz": "Zanjirli reaksiya"
+  },
+  {
+    "en": "Change",
+    "ru": "Изменять",
+    "uz": "O‘zgartirmoq"
+  },
+  {
+    "en": "Change Request (CR)",
+    "ru": "Запрос на изменение",
+    "uz": "O‘zgartirish talabi"
+  },
+  {
+    "en": "Channel",
+    "ru": "Канал",
+    "uz": "Kanal"
+  },
+  {
+    "en": "Channeled to spin turbines",
+    "ru": "Направлен на вращение турбин",
+    "uz": "Turbinalarning aylanishiga yo‘naltirilgan"
+  },
+  {
+    "en": "Charcoal",
+    "ru": "Древесный уголь",
+    "uz": "Yog‘och ko‘mir"
+  },
+  {
+    "en": "Charge",
+    "ru": "Заряд",
+    "uz": "Zaryad"
+  },
+  {
+    "en": "Charger",
+    "ru": "Zaryadlovchi qurilma",
+    "uz": "Зарядное устройство"
+  },
+  {
+    "en": "Chartered Engineer",
+    "ru": "Сертифицированный инженер",
+    "uz": "Sertifikatlangan muhandis"
+  },
+  {
+    "en": "Chemical energy",
+    "ru": "Химическая энергия",
+    "uz": "Kimyoviy energiya"
+  },
+  {
+    "en": "Chromium",
+    "ru": "Хром",
+    "uz": "Xrom"
+  },
+  {
+    "en": "Chuck sleeve",
+    "ru": "Гильза патрона",
+    "uz": "Patron qopqog‘i"
+  },
+  {
+    "en": "Circuit breaker",
+    "ru": "Автоматический выключатель",
+    "uz": "Avtomat o‘chirgich"
+  },
+  {
+    "en": "Circuit schematic",
+    "ru": "Принципиальная схема",
+    "uz": "Sxema chizmasi"
+  },
+  {
+    "en": "Clarity",
+    "ru": "Ясность",
+    "uz": "Ravshanlik"
+  },
+  {
+    "en": "Clean energy",
+    "ru": "Чистая энергия",
+    "uz": "Toza energiya"
+  },
+  {
+    "en": "Climate change",
+    "ru": "Изменение климата",
+    "uz": "Iqlim o‘zgarishi"
+  },
+  {
+    "en": "Clinical engineer",
+    "ru": "Клинический инженер",
+    "uz": "Klinik muhandis"
+  },
+  {
+    "en": "Clinical engineering",
+    "ru": "Клиническая инженерия",
+    "uz": "Klinik muhandislik"
+  },
+  {
+    "en": "Closed Core",
+    "ru": "Замкнутый Сердечник",
+    "uz": "Yopiq o‘zak"
+  },
+  {
+    "en": "Clutch setting",
+    "ru": "Регулировка муфты",
+    "uz": "Mufta sozlamasi"
+  },
+  {
+    "en": "Coaxial cable",
+    "ru": "Коаксиальный кабель",
+    "uz": "Koaksial kabel"
+  },
+  {
+    "en": "Code Division Multiplexing",
+    "ru": "Кодовое мультиплексирование",
+    "uz": "Kod bo‘yicha multiplekslash"
+  },
+  {
+    "en": "Coherence",
+    "ru": "Согласованность",
+    "uz": "Uyg‘unlik"
+  },
+  {
+    "en": "Coil (winding)",
+    "ru": "Катушка (обмотка)",
+    "uz": "Chulg‘am (o‘ram)"
+  },
+  {
+    "en": "Color band",
+    "ru": "Цветная полоса",
+    "uz": "Rangli tasma, chiziq"
+  },
+  {
+    "en": "Combustion",
+    "ru": "Горение",
+    "uz": "Yonish"
+  },
+  {
+    "en": "Combustion chamber",
+    "ru": "Камера сгорания",
+    "uz": "Yonish kamerasi"
+  },
+  {
+    "en": "Committee",
+    "ru": "Комитет",
+    "uz": "Qo‘mita"
+  },
+  {
+    "en": "Communication network",
+    "ru": "Сеть связи",
+    "uz": "Aloqa tarmog‘i"
+  },
+  {
+    "en": "Communications Engineering",
+    "ru": "Инженерия связи",
+    "uz": "Aloqa muhandisligi"
+  },
+  {
+    "en": "Commutator",
+    "ru": "Коллектор, переключатель",
+    "uz": "Kollektor, qayta ulagich"
+  },
+  {
+    "en": "Compensate",
+    "ru": "Компенсировать",
+    "uz": "Kompensatsiyalamoq"
+  },
+  {
+    "en": "Compliance",
+    "ru": "Соответствие",
+    "uz": "Muvofiqlik"
+  },
+  {
+    "en": "Compliance requirements",
+    "ru": "Требования соответствия",
+    "uz": "Moslik talablari"
+  },
+  {
+    "en": "Component Supply System",
+    "ru": "Система подачи компонентов",
+    "uz": "Komponentlarni yetkazib berish tizimi"
+  },
+  {
+    "en": "Composite materials",
+    "ru": "Композитные материалы",
+    "uz": "Kompozit materiallar"
+  },
+  {
+    "en": "Computer engineering",
+    "ru": "Компьютерная инженерия",
+    "uz": "Kompyuter muhandisligi"
+  },
+  {
+    "en": "Concentrate",
+    "ru": "Концентрат",
+    "uz": "Konsentratsiya"
+  },
+  {
+    "en": "Concentration",
+    "ru": "Концентрация",
+    "uz": "Boyitish"
+  },
+  {
+    "en": "Conduct",
+    "ru": "Проводить",
+    "uz": "O‘tkazmoq"
+  },
+  {
+    "en": "Conductor",
+    "ru": "Проводник",
+    "uz": "O‘tkazgich (sim)"
+  },
+  {
+    "en": "Consensus",
+    "ru": "Консенсус",
+    "uz": "Consensus"
+  },
+  {
+    "en": "Consistency",
+    "ru": "Последовательность",
+    "uz": "Izchillik"
+  },
+  {
+    "en": "Conspicuity device",
+    "ru": "Устройство заметности",
+    "uz": "Ko‘rinuvchanlik qurilmasi"
+  },
+  {
+    "en": "Constant",
+    "ru": "Постоянный",
+    "uz": "Doimiy, o‘zgarmas"
+  },
+  {
+    "en": "Consumer",
+    "ru": "Потребитель",
+    "uz": "Iste’molchi"
+  },
+  {
+    "en": "Contact",
+    "ru": "Контакт",
+    "uz": "Kontakt, aloqa,"
+  },
+  {
+    "en": "Containment structure",
+    "ru": "Конструкция сдерживания",
+    "uz": "Konteyner tuzilishi"
+  },
+  {
+    "en": "Context",
+    "ru": "Контекст",
+    "uz": "Kontekst"
+  },
+  {
+    "en": "Control center",
+    "ru": "Центр управления",
+    "uz": "Boshqaruv markazi"
+  },
+  {
+    "en": "Control devices",
+    "ru": "Устройства управления",
+    "uz": "Boshqarish uskunalari"
+  },
+  {
+    "en": "Control engineering",
+    "ru": "Инженерия управления",
+    "uz": "Boshqaruv muhandisligi"
+  },
+  {
+    "en": "Control panel",
+    "ru": "Панель управления",
+    "uz": "Boshqaruv paneli"
+  },
+  {
+    "en": "Control rod",
+    "ru": "Стержень управления",
+    "uz": "Boshqarish tayog‘i"
+  },
+  {
+    "en": "Convection",
+    "ru": "Конвекция",
+    "uz": "Konveksiya"
+  },
+  {
+    "en": "Convert",
+    "ru": "Перерабатывать",
+    "uz": "Qayta ishlamoq"
+  },
+  {
+    "en": "Converting",
+    "ru": "Преобразование",
+    "uz": "O‘zgartirish"
+  },
+  {
+    "en": "Cooling tower",
+    "ru": "Градирни",
+    "uz": "Sovutish minoralari"
+  },
+  {
+    "en": "Copper",
+    "ru": "Медь",
+    "uz": "Mis"
+  },
+  {
+    "en": "Cordless drill",
+    "ru": "Аккумуляторная дрель",
+    "uz": "Simsiz burg‘u"
+  },
+  {
+    "en": "Core",
+    "ru": "Сердечник",
+    "uz": "O‘zak"
+  },
+  {
+    "en": "Corrosion resistance",
+    "ru": "Коррозионная стойкость",
+    "uz": "Korroziyaga chidamlilik"
+  },
+  {
+    "en": "Cost-effective",
+    "ru": "Экономически эффективным",
+    "uz": "Iqtisodiy samarador"
+  },
+  {
+    "en": "Coupling",
+    "ru": "Взаимоиндукция",
+    "uz": "O‘zaro induksiya"
+  },
+  {
+    "en": "Coupling device",
+    "ru": "Сцепленное устройство",
+    "uz": "Birlashtiruvchi qurilma"
+  },
+  {
+    "en": "Creep",
+    "ru": "Ползучесть",
+    "uz": "Sudraluvchan deformatsiya"
+  },
+  {
+    "en": "Crushing",
+    "ru": "Дробление",
+    "uz": "Maydalash"
+  },
+  {
+    "en": "CT scan",
+    "ru": "Компьютерная томография",
+    "uz": "Kompyuter tomografiya"
+  },
+  {
+    "en": "Current",
+    "ru": "Ток",
+    "uz": "Ток"
+  },
+  {
+    "en": "Current-carrying capacity",
+    "ru": "Токовая нагрузка",
+    "uz": "Tokli yuklama"
+  },
+  {
+    "en": "Cycle",
+    "ru": "Цикл",
+    "uz": "Sikl , davr"
+  },
+  {
+    "en": "Dam",
+    "ru": "Плотина",
+    "uz": "To‘g‘on"
+  },
+  {
+    "en": "Danger class",
+    "ru": "Класс опасности",
+    "uz": "Xavf sinfi"
+  },
+  {
+    "en": "Data on materials",
+    "ru": "Данные о материалах",
+    "uz": "Materiallar haqidagi ma’lumotlar"
+  },
+  {
+    "en": "Data rate",
+    "ru": "Скорость передачи данных",
+    "uz": "Ma’lumot uzatish tezligi"
+  },
+  {
+    "en": "Date of manufacturing",
+    "ru": "Дата изготовления",
+    "uz": "Ishlab chiqarilgan sana"
+  },
+  {
+    "en": "DC - Direct Current",
+    "ru": "Постоянный ток",
+    "uz": "Doimiy tok"
+  },
+  {
+    "en": "Deadlines",
+    "ru": "Крайние сроки",
+    "uz": "Yakuniy muddatlar"
+  },
+  {
+    "en": "Declaration of compliance",
+    "ru": "Декларация о соответствии",
+    "uz": "Moslik deklaratsiyasi"
+  },
+  {
+    "en": "Definition",
+    "ru": "Определение",
+    "uz": "Ta’rif"
+  },
+  {
+    "en": "Deliver",
+    "ru": "Доставлять",
+    "uz": "Yetkazib bermoq"
+  },
+  {
+    "en": "Demodulation",
+    "ru": "Демодуляция",
+    "uz": "Demodulyatsiya"
+  },
+  {
+    "en": "Descriptive translation",
+    "ru": "Описательный перевод",
+    "uz": "Izohli tarjima"
+  },
+  {
+    "en": "Design pressure",
+    "ru": "Расчетное давление",
+    "uz": "Loyihaviy bosim"
+  },
+  {
+    "en": "Design temperature",
+    "ru": "Расчетная температура",
+    "uz": "Loyihaviy harorat"
+  },
+  {
+    "en": "Development dimension",
+    "ru": "Аспект развития",
+    "uz": "Rivojlanish omili"
+  },
+  {
+    "en": "Diagnosis",
+    "ru": "Диагностика",
+    "uz": "Diagnostika"
+  },
+  {
+    "en": "Diagnostic code",
+    "ru": "Диагностический код",
+    "uz": "Diagnostik kod"
+  },
+  {
+    "en": "Diagnostic device",
+    "ru": "Диагностическое устройство",
+    "uz": "Diagnostik qurilma"
+  },
+  {
+    "en": "Diagram",
+    "ru": "Диаграмма",
+    "uz": "Diagramma"
+  },
+  {
+    "en": "Dialysis machine",
+    "ru": "Аппарат для диализа",
+    "uz": "Dializ apparati"
+  },
+  {
+    "en": "Diameter",
+    "ru": "Диаметр",
+    "uz": "Diametr"
+  },
+  {
+    "en": "Digital communication",
+    "ru": "Цифровая связь",
+    "uz": "Raqamli aloqa"
+  },
+  {
+    "en": "Digital electronics",
+    "ru": "Цифровая электроника",
+    "uz": "Raqamli elektronika"
+  },
+  {
+    "en": "Digital modulation",
+    "ru": "Цифровая модуляция",
+    "uz": "Raqamli modulyatsiya"
+  },
+  {
+    "en": "DIN - Deutsches Institut für Normung",
+    "ru": "Немецкий институт стандартизации",
+    "uz": "Germaniya standartlashtirish instituti"
+  },
+  {
+    "en": "Direct Current",
+    "ru": "Постоянный ток",
+    "uz": "O‘zgarmas tok"
+  },
+  {
+    "en": "DIS - Draft International Standard",
+    "ru": "Проект международного стандарта",
+    "uz": "Xalqaro standart loyihasi"
+  },
+  {
+    "en": "Discipline",
+    "ru": "Дисциплина",
+    "uz": "Intizom"
+  },
+  {
+    "en": "Distribute",
+    "ru": "Распространять",
+    "uz": "Tarqatmoq"
+  },
+  {
+    "en": "Distribution center",
+    "ru": "Центр распространения",
+    "uz": "Tarqatish markazi"
+  },
+  {
+    "en": "Diversion structure",
+    "ru": "Отводное сооружение",
+    "uz": "Yo‘naltiruvchi inshoot"
+  },
+  {
+    "en": "Doppler effect",
+    "ru": "Эффект Доплера",
+    "uz": "Doppler effekti"
+  },
+  {
+    "en": "Draft",
+    "ru": "Тяга",
+    "uz": "Harakatlantiruvchi kuch"
+  },
+  {
+    "en": "Drag",
+    "ru": "Сила сопротивления",
+    "uz": "Qarshilik kuchi"
+  },
+  {
+    "en": "Drill bit",
+    "ru": "Сверло",
+    "uz": "Burg‘u uchi"
+  },
+  {
+    "en": "Drill capacity",
+    "ru": "Диаметр сверления",
+    "uz": "Burg‘ulash quvvati"
+  },
+  {
+    "en": "Drivability issues",
+    "ru": "Проблемы управляемости",
+    "uz": "Boshqaruv muammolari"
+  },
+  {
+    "en": "Drug delivery system",
+    "ru": "Система доставки лекарств",
+    "uz": "Dori yetkazish tizimi"
+  },
+  {
+    "en": "Ductility",
+    "ru": "Пластичность",
+    "uz": "Plastiklik"
+  },
+  {
+    "en": "EASA (European Union Aviation Safety Agency)",
+    "ru": "Агентство авиационной безопасности Европейского союза",
+    "uz": "Yevropa aviatsiya xavfsizligi agentligi"
+  },
+  {
+    "en": "ECG (Electrocardiogram)",
+    "ru": "ЭКГ",
+    "uz": "EKG"
+  },
+  {
+    "en": "Effectiveness",
+    "ru": "Эффективность",
+    "uz": "Samaradorlik"
+  },
+  {
+    "en": "Electric cell",
+    "ru": "Электрический элемент",
+    "uz": "Elektrik element"
+  },
+  {
+    "en": "Electric heater",
+    "ru": "Электронагреватель",
+    "uz": "Elektr isitgich"
+  },
+  {
+    "en": "Electric motor",
+    "ru": "Электродвигатель",
+    "uz": "Elektr dvigatel, motor"
+  },
+  {
+    "en": "Electric power transmission network",
+    "ru": "Сеть передачи электроэнергии",
+    "uz": "Elektr energiyani uzatish tarmog‘i"
+  },
+  {
+    "en": "Electrical",
+    "ru": "Электрический",
+    "uz": "Elektrga oid"
+  },
+  {
+    "en": "Electrical circuit",
+    "ru": "Электрическая цепь",
+    "uz": "Elektr zanjir"
+  },
+  {
+    "en": "Electrical energy",
+    "ru": "Электроэнергия",
+    "uz": "Elektr energiyasi"
+  },
+  {
+    "en": "Electrical engineering",
+    "ru": "Электротехника",
+    "uz": "Elektr muhandislik"
+  },
+  {
+    "en": "Electrical installations",
+    "ru": "Электроустановки",
+    "uz": "Elektr uskunalari"
+  },
+  {
+    "en": "Electricity demand",
+    "ru": "Спрос на электроэнергию",
+    "uz": "Elektr energiyasiga talab"
+  },
+  {
+    "en": "Electricity production",
+    "ru": "Производство электроэнергии",
+    "uz": "Elektr energiyasi ishlab chiqarish"
+  },
+  {
+    "en": "Electricity-conducting solution",
+    "ru": "Электропроводящее решение",
+    "uz": "Elektr o‘tkazuvchan eritma"
+  },
+  {
+    "en": "Electricity-generation",
+    "ru": "Производство электроэнергии",
+    "uz": "Elektr energiya ishlab chiqarish"
+  },
+  {
+    "en": "Electrification",
+    "ru": "Электрификация",
+    "uz": "Elektrlashtirish"
+  },
+  {
+    "en": "Electro catalytic",
+    "ru": "Электрокаталитический",
+    "uz": "Elektrokatalitik"
+  },
+  {
+    "en": "Electrode",
+    "ru": "Электрод",
+    "uz": "Elektrod"
+  },
+  {
+    "en": "Electrolyte",
+    "ru": "Электролит",
+    "uz": "Elektrolit"
+  },
+  {
+    "en": "Electrolytic cell",
+    "ru": "Электролитическая ячейка",
+    "uz": "Elektrolitik bo‘lim"
+  },
+  {
+    "en": "Electromagnet winding",
+    "ru": "Обмотка электромагнита",
+    "uz": "Elektromagnit chulg‘ami"
+  },
+  {
+    "en": "Electromagnetic device",
+    "ru": "Электромагнитное устройство",
+    "uz": "Elekromagnit qurilma"
+  },
+  {
+    "en": "Electromagnetic field",
+    "ru": "Электромагнитная поля",
+    "uz": "Elektromagnit maydon"
+  },
+  {
+    "en": "Electromagnetic induction",
+    "ru": "Электромагнитная индукция",
+    "uz": "Elektromagnit induksiya"
+  },
+  {
+    "en": "Electromagnetic relay",
+    "ru": "Электромагнитное реле",
+    "uz": "Elektromagnit rele"
+  },
+  {
+    "en": "Electromagnetics",
+    "ru": "Электромагнетизм",
+    "uz": "Elektromagnetizm"
+  },
+  {
+    "en": "Electrometallurgy",
+    "ru": "Электрометаллургия",
+    "uz": "Elektrometallurgiya"
+  },
+  {
+    "en": "Electromotiveforce",
+    "ru": "Электродвижущаясила",
+    "uz": "Elektr yurituvchi kuch"
+  },
+  {
+    "en": "Electronic engineering",
+    "ru": "Электронная инженерия",
+    "uz": "Elektron muhandislik"
+  },
+  {
+    "en": "Embedded system",
+    "ru": "Встроенная система",
+    "uz": "O‘rnatilgan tizim"
+  },
+  {
+    "en": "Embedded systems",
+    "ru": "Встроенные системы",
+    "uz": "O‘rnatilgan tizimlar"
+  },
+  {
+    "en": "EMC - Electromagnetic Compatibility",
+    "ru": "Электромагнитная совместимость",
+    "uz": "Elektromagnit moslik"
+  },
+  {
+    "en": "Emergency situation",
+    "ru": "Аварийная ситуация",
+    "uz": "Favqulodda holat"
+  },
+  {
+    "en": "Emergency stop",
+    "ru": "Аварийная остановка",
+    "uz": "Favqulodda to‘xtatish"
+  },
+  {
+    "en": "Empty coating",
+    "ru": "Пустое покрытие",
+    "uz": "Bo‘sh qoplama"
+  },
+  {
+    "en": "EN - European Standard",
+    "ru": "Европейский стандарт",
+    "uz": "Yevropa standarti"
+  },
+  {
+    "en": "Encryption",
+    "ru": "Шифрование",
+    "uz": "Shifrlash"
+  },
+  {
+    "en": "End bracket",
+    "ru": "Конечный кронштейн",
+    "uz": "Oxirgi kronshteyn"
+  },
+  {
+    "en": "End cap",
+    "ru": "Торцевая крышка",
+    "uz": "Chetki qopqoq"
+  },
+  {
+    "en": "Energy efficiency",
+    "ru": "Энергоэффективность",
+    "uz": "Energiya samaradorligi"
+  },
+  {
+    "en": "Energy engineering",
+    "ru": "Энергетика",
+    "uz": "Energetika"
+  },
+  {
+    "en": "Energy service",
+    "ru": "Энергетическая служба",
+    "uz": "Energiya xizmati"
+  },
+  {
+    "en": "Energy source",
+    "ru": "Источник энергии",
+    "uz": "Energiya manbai"
+  },
+  {
+    "en": "Energy storage",
+    "ru": "Хранилище энергии",
+    "uz": "Energiyani saqlash"
+  },
+  {
+    "en": "Energy systems",
+    "ru": "Энергетические системы",
+    "uz": "Energetik tizimlar"
+  },
+  {
+    "en": "Energy transition",
+    "ru": "Энергетический переход",
+    "uz": "Energetik o‘tish"
+  },
+  {
+    "en": "Engineering projects",
+    "ru": "Инженерные проекты",
+    "uz": "Muhandislik loyihalari"
+  },
+  {
+    "en": "Environmental compliance",
+    "ru": "Экологическое соответствие",
+    "uz": "Atrof-muhitga muvofiqlik"
+  },
+  {
+    "en": "Equivalence",
+    "ru": "Эквивалентность",
+    "uz": "Ekvivalentlik"
+  },
+  {
+    "en": "Equivalent",
+    "ru": "Эквивалент",
+    "uz": "ekvivalent"
+  },
+  {
+    "en": "Error detection",
+    "ru": "Обнаружение ошибок",
+    "uz": "Xatoni aniqlash"
+  },
+  {
+    "en": "Error in terminology",
+    "ru": "Ошибка в терминологии",
+    "uz": "Terminologik xato"
+  },
+  {
+    "en": "ESD - Electrostatic Discharge",
+    "ru": "Электростатический разряд",
+    "uz": "Elektrostatik razryad"
+  },
+  {
+    "en": "Ethanol Fuel cell",
+    "ru": "Топливный элемент на этаноле",
+    "uz": "Etanol yonilg‘i elementi"
+  },
+  {
+    "en": "Ever-evolving technology",
+    "ru": "Постоянно развивающиеся технологии",
+    "uz": "Doimiy rivojlanayotgantexnologiya"
+  },
+  {
+    "en": "Execution",
+    "ru": "Исполнение",
+    "uz": "Ijro turi"
+  },
+  {
+    "en": "Explanation",
+    "ru": "Пояснение",
+    "uz": "izoh"
+  },
+  {
+    "en": "Exploded view",
+    "ru": "Сборочный чертеж",
+    "uz": "Chizma ko‘rinishi"
+  },
+  {
+    "en": "Explosion and fire hazard",
+    "ru": "Взрывопожароопасность",
+    "uz": "Portlash va yong‘in xavfi"
+  },
+  {
+    "en": "Explosion hazard",
+    "ru": "Взрывоопасность",
+    "uz": "Portlash xavfi"
+  },
+  {
+    "en": "Expose to light",
+    "ru": "Выставить на свет",
+    "uz": "Yorug‘likka qo‘yish"
+  },
+  {
+    "en": "Extractive metallurgy",
+    "ru": "Экстрактивная металлургия",
+    "uz": "Ekstraktiv metallurgiya"
+  },
+  {
+    "en": "Eye protection",
+    "ru": "Ko‘z himoyasi",
+    "uz": "Защита глаз"
+  },
+  {
+    "en": "FAA (Federal Aviation Administration)",
+    "ru": "Федеральное управление гражданской авиации США",
+    "uz": "Amerika Qo‘shma Shtatlari Federal aviatsiya ma’muriyati"
+  },
+  {
+    "en": "Facility management",
+    "ru": "Управление объектами",
+    "uz": "Ob’ektni boshqarish"
+  },
+  {
+    "en": "Fahrenheit",
+    "ru": "Фаренгейт",
+    "uz": "Farengeyt"
+  },
+  {
+    "en": "Failure",
+    "ru": "Отказ",
+    "uz": "Nosozlik"
+  },
+  {
+    "en": "Fatigue",
+    "ru": "Усталость материала",
+    "uz": "Material charchashi"
+  },
+  {
+    "en": "Fault",
+    "ru": "Дефект, неисправность",
+    "uz": "Nuqson"
+  },
+  {
+    "en": "Faulty system",
+    "ru": "Неисправная система",
+    "uz": "Noto‘g‘ri tizim"
+  },
+  {
+    "en": "FDIS - Final Draft International Standard",
+    "ru": "Окончательный проект МС",
+    "uz": "Yakuniy xalqaro standart loyihasi"
+  },
+  {
+    "en": "Federal lighting",
+    "ru": "Федеральное освещение",
+    "uz": "Federal yoritish tizimi"
+  },
+  {
+    "en": "Feed pumps",
+    "ru": "Питающие насосы",
+    "uz": "Pita nasoslar"
+  },
+  {
+    "en": "Feed water flow",
+    "ru": "Расход питательной воды",
+    "uz": "Oziqlantiruvchi suv sarfi"
+  },
+  {
+    "en": "Feed water pump",
+    "ru": "Насос питательной воды",
+    "uz": "Ta’minlovchi suv nasosi"
+  },
+  {
+    "en": "Feedback",
+    "ru": "Обратная связь",
+    "uz": "Teskari aloqa"
+  },
+  {
+    "en": "Feeder",
+    "ru": "Питатель",
+    "uz": "Ta’minlagich"
+  },
+  {
+    "en": "Ferrous metallurgy",
+    "ru": "Черная металлургия",
+    "uz": "Qora metallurgiya"
+  },
+  {
+    "en": "Fiber link",
+    "ru": "Волоконно-оптическая линия",
+    "uz": "Optik tolali aloqa"
+  },
+  {
+    "en": "Fiber optics",
+    "ru": "Волоконная оптика",
+    "uz": "Optik tolali aloqa"
+  },
+  {
+    "en": "Field coil",
+    "ru": "Катушка обмотки возбуждения",
+    "uz": "Qo‘zgatish chulgamining o‘rami"
+  },
+  {
+    "en": "Field/domain",
+    "ru": "Область /сфера",
+    "uz": "Soha"
+  },
+  {
+    "en": "Fire hazard",
+    "ru": "Пожароопасность",
+    "uz": "Yong‘in xavfi"
+  },
+  {
+    "en": "Firebrick",
+    "ru": "Огнеупорный кирпич",
+    "uz": "Olovga chidamli g‘isht"
+  },
+  {
+    "en": "Fissile nucleus",
+    "ru": "Делящееся ядро",
+    "uz": "Parchalanuvchi yadro"
+  },
+  {
+    "en": "Fission",
+    "ru": "Деление",
+    "uz": "Bo‘linish"
+  },
+  {
+    "en": "Fission product",
+    "ru": "Продукт деления",
+    "uz": "Parchalanish mahsuloti"
+  },
+  {
+    "en": "Fittings",
+    "ru": "Арматура",
+    "uz": "Armaturlar"
+  },
+  {
+    "en": "Fixed guard",
+    "ru": "Неподвижное ограждение",
+    "uz": "Statsionar to‘siq"
+  },
+  {
+    "en": "Flange",
+    "ru": "Фланец",
+    "uz": "Flanets"
+  },
+  {
+    "en": "Flight control system",
+    "ru": "Система управления полётом",
+    "uz": "Parvozni boshqarish tizimi"
+  },
+  {
+    "en": "Flight manual",
+    "ru": "Руководство по лётной эксплуатации",
+    "uz": "Uchish qo‘llanmasi"
+  },
+  {
+    "en": "Flow",
+    "ru": "Теч, поток",
+    "uz": "Oqish, oqim"
+  },
+  {
+    "en": "Flowing water",
+    "ru": "Текущая вода",
+    "uz": "Oqayotgan suv"
+  },
+  {
+    "en": "Fluorescence microscopy",
+    "ru": "Флуоресцентная микроскопия",
+    "uz": "Fluorestsent mikroskopiya"
+  },
+  {
+    "en": "Forging",
+    "ru": "Ковка",
+    "uz": "Soxtalash"
+  },
+  {
+    "en": "Formic acid fuel cell",
+    "ru": "Топливный элемент с муравьиной кислотой",
+    "uz": "Formik kislotali yonilg‘i elementi"
+  },
+  {
+    "en": "Forward road illumination",
+    "ru": "Освещение дороги вперед",
+    "uz": "Old yo‘lni yoritish"
+  },
+  {
+    "en": "Forward/reversing lever",
+    "ru": "Переключатель направления",
+    "uz": "Oldinga/orqaga yo‘naltiruvchi tugma"
+  },
+  {
+    "en": "Fraction",
+    "ru": "Дробная часть",
+    "uz": "Kesimli qism"
+  },
+  {
+    "en": "Frame",
+    "ru": "Рамка",
+    "uz": "Ramka"
+  },
+  {
+    "en": "Frankfurt Agreement",
+    "ru": "Франкфуртское соглашение",
+    "uz": "Frankfurt kelishuvi"
+  },
+  {
+    "en": "Frequency",
+    "ru": "Частота",
+    "uz": "Chastota (davr tezlik)"
+  },
+  {
+    "en": "Frequency Division Multiplexing",
+    "ru": "Частотное мультиплексирование",
+    "uz": "Chastota bo‘yicha multiplekslash"
+  },
+  {
+    "en": "Frequency modulation",
+    "ru": "Частотная модуляция",
+    "uz": "Chastotaviy modulyatsiya"
+  },
+  {
+    "en": "Frequency of the current",
+    "ru": "Частота тока",
+    "uz": "Tok chastotasi (davr tezligi)"
+  },
+  {
+    "en": "Fuel cell",
+    "ru": "Топливный элемент",
+    "uz": "Yonilg‘i elementi"
+  },
+  {
+    "en": "Full equivalent",
+    "ru": "Полный эквивалент",
+    "uz": "to‘liq ekvivalent"
+  },
+  {
+    "en": "Functionality",
+    "ru": "Функциональность",
+    "uz": "Funksionallik"
+  },
+  {
+    "en": "Furnace",
+    "ru": "Печь",
+    "uz": "Pech"
+  },
+  {
+    "en": "Fuse",
+    "ru": "Предохранитель",
+    "uz": "Saqlagich"
+  },
+  {
+    "en": "Fuselage",
+    "ru": "Фюзеляж",
+    "uz": "Fyuzelyaj"
+  },
+  {
+    "en": "Galvanized steel",
+    "ru": "Оцинкованная сталь",
+    "uz": "Ruxlangan po‘lat"
+  },
+  {
+    "en": "Gas pipeline",
+    "ru": "Трубопровод газа",
+    "uz": "Gaz quvuri"
+  },
+  {
+    "en": "Gasification",
+    "ru": "Газификация",
+    "uz": "Gazlashtirish"
+  },
+  {
+    "en": "Gasification boilers",
+    "ru": "Котлы газификации",
+    "uz": "Gazlashtirish qozonlari"
+  },
+  {
+    "en": "Gearbox",
+    "ru": "Коробка передач",
+    "uz": "Uzatish qutisi"
+  },
+  {
+    "en": "Generator",
+    "ru": "Генератор",
+    "uz": "Generator"
+  },
+  {
+    "en": "Generator shaft",
+    "ru": "Вал генератора",
+    "uz": "Generator o‘qi"
+  },
+  {
+    "en": "Genetic engineering",
+    "ru": "Генетическая инженерия",
+    "uz": "Gen muhandisligi"
+  },
+  {
+    "en": "Genomic data",
+    "ru": "Геномные данные",
+    "uz": "Genom ma’lumotlari"
+  },
+  {
+    "en": "G-force",
+    "ru": "Перегрузка",
+    "uz": "g-yuklama"
+  },
+  {
+    "en": "GOST - State Standard",
+    "ru": "Государственный стандарт",
+    "uz": "Davlat standarti"
+  },
+  {
+    "en": "GPS (Global Positioning System)",
+    "ru": "ГСП (глобальная система позиционирования)",
+    "uz": "GPS (Global joylashuv tizimi) tizimi"
+  },
+  {
+    "en": "Gravitational",
+    "ru": "Гравитационный",
+    "uz": "Gravitatsion"
+  },
+  {
+    "en": "Gravitational potential energy",
+    "ru": "Гравитационная потенциальная энергия",
+    "uz": "Gravitatsion potensial energiya"
+  },
+  {
+    "en": "Greenhouse gas emission",
+    "ru": "Выбросы парниковых газов",
+    "uz": "Issiqxona gazlari chiqindilari"
+  },
+  {
+    "en": "Greenhouse gas emissions",
+    "ru": "Выбросы парниковых газов",
+    "uz": "Issiqxona gazlari chiqindilari"
+  },
+  {
+    "en": "Grinding",
+    "ru": "Измельчение",
+    "uz": "Mayda maydalash"
+  },
+  {
+    "en": "Ground",
+    "ru": "Заземлитель",
+    "uz": "Ерлагич, заминлагич"
+  },
+  {
+    "en": "GRP (glass fiber reinforced plastic)",
+    "ru": "Армированный стеклопластик",
+    "uz": "Shisha tolali plastik"
+  },
+  {
+    "en": "Guard",
+    "ru": "Ограждение",
+    "uz": "To‘siq"
+  },
+  {
+    "en": "Guidance system",
+    "ru": "Система наведения",
+    "uz": "Yo‘naltirish tizimi"
+  },
+  {
+    "en": "Guided media",
+    "ru": "Направляемая среда",
+    "uz": "Yo‘naltirilgan muhit"
+  },
+  {
+    "en": "GVWR (Gross Vehicle Weight Rating)",
+    "ru": "Полная масса автомобиля",
+    "uz": "Transportning ruxsat etilgan maksimal og‘irligi"
+  },
+  {
+    "en": "Half-coupling",
+    "ru": "Муфта",
+    "uz": "Yarim mufta"
+  },
+  {
+    "en": "Handhole",
+    "ru": "Люк",
+    "uz": "Tekshiruv lyugi"
+  },
+  {
+    "en": "Harm",
+    "ru": "Вред, ущерб здоровью",
+    "uz": "Jismoniy shikast"
+  },
+  {
+    "en": "Harness",
+    "ru": "Обуздать",
+    "uz": "Bo‘ysindirmoq, jilovlamoq"
+  },
+  {
+    "en": "Hazard",
+    "ru": "Опасность",
+    "uz": "Xavf manbai"
+  },
+  {
+    "en": "Hazard class",
+    "ru": "Класс опасности",
+    "uz": "Xavflilik darajasi"
+  },
+  {
+    "en": "Hazard zone",
+    "ru": "Опасная зона",
+    "uz": "Xavfli zona"
+  },
+  {
+    "en": "hazardous event",
+    "ru": "Опасное событие",
+    "uz": "Xavfli hodisa"
+  },
+  {
+    "en": "hazardous situation",
+    "ru": "Опасная ситуация",
+    "uz": "Xavfli holat"
+  },
+  {
+    "en": "Head",
+    "ru": "Днище",
+    "uz": "Dnishе (idishning qopqog‘i)"
+  },
+  {
+    "en": "Head race",
+    "ru": "Подводящий канал",
+    "uz": "Suv olib keluvchi kanal"
+  },
+  {
+    "en": "Headlamps lower beam",
+    "ru": "Ближний свет фар",
+    "uz": "Pastki yorug‘lik faralari"
+  },
+  {
+    "en": "Headlamps upper beam",
+    "ru": "Дальний свет фар",
+    "uz": "Uzoq yorug‘lik faralari"
+  },
+  {
+    "en": "Healthcare",
+    "ru": "Здравоохранение",
+    "uz": "Sog‘liqni saqlash"
+  },
+  {
+    "en": "Hearing protection",
+    "ru": "Защита слуха",
+    "uz": "Quloq himoyasi"
+  },
+  {
+    "en": "Hearth",
+    "ru": "Очаг",
+    "uz": "O‘choq"
+  },
+  {
+    "en": "Heat exchanger",
+    "ru": "Теплообменник",
+    "uz": "Issiqlik almashgich"
+  },
+  {
+    "en": "Heat shield",
+    "ru": "Теплозащитный экран",
+    "uz": "Issiqlik himoya qatlami"
+  },
+  {
+    "en": "Heat treatment",
+    "ru": "Термообработка",
+    "uz": "Issiqlik bilan ishlov berish"
+  },
+  {
+    "en": "Henry (Hernias)",
+    "ru": "Генри",
+    "uz": "Genri (o‘lchov birligi)"
+  },
+  {
+    "en": "High frequency",
+    "ru": "Высокая Частота",
+    "uz": "Yuqori Chastota (davr tezlik)"
+  },
+  {
+    "en": "Home automation",
+    "ru": "Домашняя автоматизация",
+    "uz": "Uy avtomatlashtirish tizimi"
+  },
+  {
+    "en": "Hydraulic pressure",
+    "ru": "Гидравлическое давление",
+    "uz": "Gidravlik bosim"
+  },
+  {
+    "en": "Hydraulic test",
+    "ru": "Гидравлическое испытание",
+    "uz": "Gidravlik sinov"
+  },
+  {
+    "en": "Hydro turbine runner",
+    "ru": "Ход гидротурбины",
+    "uz": "Gidroturbina xarakati (ishlashi)"
+  },
+  {
+    "en": "Hydroelectric energy",
+    "ru": "Гидроэлектрическая энергия",
+    "uz": "Gidroelektr energiyasi"
+  },
+  {
+    "en": "Hydroelectric power plant",
+    "ru": "Гидроэлектро-станция",
+    "uz": "Gidroelektrostansiya"
+  },
+  {
+    "en": "Hydroelectric power plant",
+    "ru": "Гидроэлектростанция",
+    "uz": "Gidroelektr stansiyasi"
+  },
+  {
+    "en": "Hydrometallurgy",
+    "ru": "Гидрометаллургия",
+    "uz": "Gidrometallurgiya"
+  },
+  {
+    "en": "Hydropower",
+    "ru": "Гидроэнергетика",
+    "uz": "Gidroenergetika"
+  },
+  {
+    "en": "Hydropower efficiency",
+    "ru": "КПД гидроэлектростанции",
+    "uz": "GES samaradorligi"
+  },
+  {
+    "en": "Hydropower plant",
+    "ru": "Гидроэлектростанция",
+    "uz": "Gidroelektr stansiyasi"
+  },
+  {
+    "en": "ICAO (International Civil Aviation Organization)",
+    "ru": "Международная организация гражданской авиации",
+    "uz": "Xalqaro fuqaro aviatsiyasi tashkiloti"
+  },
+  {
+    "en": "IEC Supplement",
+    "ru": "приложение IEC",
+    "uz": "IEC qo‘shimchasi"
+  },
+  {
+    "en": "IEC-International Electrotechnical Commission",
+    "ru": "Международная электротехническая комиссия",
+    "uz": "Xalqaro elektrotexnika komissiyasi"
+  },
+  {
+    "en": "Impartiality",
+    "ru": "Беспристрастность",
+    "uz": "Betaraflik"
+  },
+  {
+    "en": "Implant",
+    "ru": "Имплант",
+    "uz": "Implant"
+  },
+  {
+    "en": "In series",
+    "ru": "Последовательно",
+    "uz": "Ketma - ket ravishda"
+  },
+  {
+    "en": "In series-parallel",
+    "ru": "Последовательно-параллельно",
+    "uz": "Ketma - ket – parallel ravishda"
+  },
+  {
+    "en": "Inches",
+    "ru": "Дюймы",
+    "uz": "Dyuym"
+  },
+  {
+    "en": "Incident neutron",
+    "ru": "Падающий нейтрон",
+    "uz": "Neytron hodisasi"
+  },
+  {
+    "en": "Indirect-inductively coupled",
+    "ru": "Косвенно-индуктивно связанный",
+    "uz": "Bilvosita induktiv ravishda bog‘langan"
+  },
+  {
+    "en": "Indoor",
+    "ru": "В помещении",
+    "uz": "Xonada, yopiq"
+  },
+  {
+    "en": "Induced voltage",
+    "ru": "Наведение напряжения",
+    "uz": "Kuchlanish induksiyasi"
+  },
+  {
+    "en": "Induction",
+    "ru": "Индукция",
+    "uz": "Induksiya"
+  },
+  {
+    "en": "Inductor",
+    "ru": "Индуктор",
+    "uz": "Индуктор"
+  },
+  {
+    "en": "Industrial enterprises",
+    "ru": "Промышленные предприятия",
+    "uz": "Sanoat korxonalari"
+  },
+  {
+    "en": "Industrial processes",
+    "ru": "Промышленные процессы",
+    "uz": "Sanoat jarayonlari"
+  },
+  {
+    "en": "Industrial Revolution",
+    "ru": "Промышленная революция",
+    "uz": "Sanoat inqilobi"
+  },
+  {
+    "en": "Inflow of water",
+    "ru": "Приток воды",
+    "uz": "Suv quyilishi"
+  },
+  {
+    "en": "Information for use",
+    "ru": "Информация по эксплуатации",
+    "uz": "Foydalanish bo‘yicha ma’lumot"
+  },
+  {
+    "en": "Information source",
+    "ru": "Источник информации",
+    "uz": "Axborot manbai"
+  },
+  {
+    "en": "Infrared",
+    "ru": "Инфракрасное излучение",
+    "uz": "Infraqizil nurlanish"
+  },
+  {
+    "en": "Infrastructure",
+    "ru": "Инфраструктура",
+    "uz": "Infratuzilma"
+  },
+  {
+    "en": "Inherently safe design",
+    "ru": "Безопасная по своей сути конструкция",
+    "uz": "Ichki xavfsiz konstruksiya"
+  },
+  {
+    "en": "Inspection",
+    "ru": "Осмотр",
+    "uz": "Ko‘rik"
+  },
+  {
+    "en": "Inspection class",
+    "ru": "Класс проверки",
+    "uz": "Tekshiruv klassi"
+  },
+  {
+    "en": "Inspection report",
+    "ru": "Отчет осмотра",
+    "uz": "Tekshiruv hisoboti"
+  },
+  {
+    "en": "Installation angle",
+    "ru": "Угол установки",
+    "uz": "O‘rnatish burchagi"
+  },
+  {
+    "en": "Installation manual",
+    "ru": "Руководство по установке",
+    "uz": "O‘rnatish qo‘llanmasi"
+  },
+  {
+    "en": "Instruction",
+    "ru": "Инструкция",
+    "uz": "Ko‘rsatma"
+  },
+  {
+    "en": "Instrumentation engineering",
+    "ru": "Приборостроение",
+    "uz": "O‘lchov asboblari muhandisligi"
+  },
+  {
+    "en": "Insulated",
+    "ru": "Изолированный",
+    "uz": "Izolyatsiya qilingan"
+  },
+  {
+    "en": "Insulation",
+    "ru": "Изоляция",
+    "uz": "Izolyatsiya"
+  },
+  {
+    "en": "Insulator",
+    "ru": "Изолятор",
+    "uz": "Izolyator"
+  },
+  {
+    "en": "Integrated circuit (IC)",
+    "ru": "Интегральная схема",
+    "uz": "Integral sxema"
+  },
+  {
+    "en": "Integrated circuits",
+    "ru": "Интегральные схемы",
+    "uz": "Integral sxemalar"
+  },
+  {
+    "en": "Intended use",
+    "ru": "Целевое использование",
+    "uz": "Mo‘ljallangan foydalanish"
+  },
+  {
+    "en": "Interconnect",
+    "ru": "Соединить",
+    "uz": "Ulamoq, birlashtirmoq"
+  },
+  {
+    "en": "Interlocking guard",
+    "ru": "Блокируемое ограждение",
+    "uz": "blokirovkali to‘siq"
+  },
+  {
+    "en": "Intermetallic compounds",
+    "ru": "Интерметаллические соединения",
+    "uz": "Intermetall birikmalar"
+  },
+  {
+    "en": "International Standard",
+    "ru": "Международный стандарт",
+    "uz": "Xalqaro standart"
+  },
+  {
+    "en": "International Standards development",
+    "ru": "Разработка международных стандартов",
+    "uz": "xalqaro standartlarni ishlab chiqish"
+  },
+  {
+    "en": "IP (code) - Ingress Protection",
+    "ru": "Степень защиты оболочки",
+    "uz": "Himoya darajasi (IP kodi)"
+  },
+  {
+    "en": "Iron Age",
+    "ru": "Железный век",
+    "uz": "Temir davri"
+  },
+  {
+    "en": "Iron Core",
+    "ru": "Железный сердечник",
+    "uz": "Temir o‘zak"
+  },
+  {
+    "en": "Iron-carbon system",
+    "ru": "Железо-углеродная система",
+    "uz": "Temir-uglerod tizimi"
+  },
+  {
+    "en": "ISO Supplement",
+    "ru": "Приложение ISO",
+    "uz": "ISO qo‘shimchasi"
+  },
+  {
+    "en": "ISO/IEC Directives",
+    "ru": "Директивы ISO/IEC",
+    "uz": "ISO/IEC direktivalari"
+  },
+  {
+    "en": "ISO/IEC -International Organization for Standardization / International Electrotechnical Commission",
+    "ru": "ИСО - Международная организация по стандартизации /МЭК - Международная электротехническая комиссия",
+    "uz": "ISO - Xalqaro standartlashtirish tashkiloti /IEC - Xalqaro elektrotexnika komissiyasi (xalqaro qo‘shma standartlar)"
+  },
+  {
+    "en": "ISO/TC - ISO Technical Committee",
+    "ru": "Технический комитет ИСО",
+    "uz": "ISO texnik qo‘mitasi"
+  },
+  {
+    "en": "ISO-International Organization for Standardization",
+    "ru": "Международная организация по стандартизации",
+    "uz": "Xalqaro standartlashtirish tashkiloti"
+  },
+  {
+    "en": "Isolate conducting wire",
+    "ru": "Изолировать проводящий провод",
+    "uz": "O‘tkazuvchi simni izolyatsiya qilmoq"
+  },
+  {
+    "en": "Isolator",
+    "ru": "Изолятор",
+    "uz": "Izolyator"
+  },
+  {
+    "en": "Jet engine",
+    "ru": "Реактивный двигатель",
+    "uz": "Reaktiv dvigatel"
+  },
+  {
+    "en": "Joint Technical Committee (JTC 1)",
+    "ru": "Объединённый технический комитет",
+    "uz": "Qo‘shma texnik qo‘mita"
+  },
+  {
+    "en": "Joule",
+    "ru": "Джоуль",
+    "uz": "Djoul"
+  },
+  {
+    "en": "Kinetic energy",
+    "ru": "Кинетическая энергия",
+    "uz": "Kinetik energiya"
+  },
+  {
+    "en": "Lamp",
+    "ru": "Лампа",
+    "uz": "Чирок, ёритгич"
+  },
+  {
+    "en": "LAN",
+    "ru": "Локальная сеть",
+    "uz": "Mahalliy tarmoq"
+  },
+  {
+    "en": "L-ascorbic acid fuel cell",
+    "ru": "Топливный элемент с L-аскорбиновой кислотой",
+    "uz": "L-askorbin kislotali yonilg‘i elementi"
+  },
+  {
+    "en": "Latency",
+    "ru": "Задержка",
+    "uz": "Uzatishdagi kechikish"
+  },
+  {
+    "en": "Launch pad",
+    "ru": "Стартовая площадка",
+    "uz": "Uchirish maydoni"
+  },
+  {
+    "en": "Launch vehicle",
+    "ru": "Ракета-носитель",
+    "uz": "Uchirish raketasi"
+  },
+  {
+    "en": "LDR",
+    "ru": "Фото резистор",
+    "uz": "Фото резистор"
+  },
+  {
+    "en": "Leaching",
+    "ru": "Выщелачивание",
+    "uz": "Yuvib ajratish"
+  },
+  {
+    "en": "Leads",
+    "ru": "Шпоны",
+    "uz": "Shponlar, metal plastinka"
+  },
+  {
+    "en": "Leak testing",
+    "ru": "Испытание на плотность",
+    "uz": "Sizib chiqishni sinash"
+  },
+  {
+    "en": "License",
+    "ru": "Лицензия",
+    "uz": "Litsenziya"
+  },
+  {
+    "en": "Lift",
+    "ru": "Подъёмная сила",
+    "uz": "Ko‘tarish kuchi"
+  },
+  {
+    "en": "Lifting",
+    "ru": "Подъем",
+    "uz": "Ko‘tarish"
+  },
+  {
+    "en": "Lifting lug",
+    "ru": "Подъемная проушина",
+    "uz": "Ko‘tarish ilgagi"
+  },
+  {
+    "en": "Light-dispersing properties",
+    "ru": "Светорассеивающие свойства",
+    "uz": "Yorug‘lik tarqalish xususiyatlari"
+  },
+  {
+    "en": "Lighting equipment",
+    "ru": "Световое оборудование",
+    "uz": "Yoritish uskunalari"
+  },
+  {
+    "en": "Lighting standards",
+    "ru": "Стандарты освещения",
+    "uz": "Yoritish standartlari"
+  },
+  {
+    "en": "Liquid penetration test",
+    "ru": "Капиллярная дефектоскопия",
+    "uz": "Suyuqlik kirib borish sinovi"
+  },
+  {
+    "en": "Load",
+    "ru": "Нагрузка",
+    "uz": "Yuklama"
+  },
+  {
+    "en": "Load resistance",
+    "ru": "Сопротивление нагрузки",
+    "uz": "Yuklama qarshiligi"
+  },
+  {
+    "en": "Loose",
+    "ru": "Свободный",
+    "uz": "Erkin, ozod"
+  },
+  {
+    "en": "Low frequency",
+    "ru": "Низкая Частота",
+    "uz": "Quyi Chastota (davr tezlik)"
+  },
+  {
+    "en": "Lower reservoir",
+    "ru": "Нижний водоём",
+    "uz": "Pastki suv ombori"
+  },
+  {
+    "en": "Mach number",
+    "ru": "Число Маха",
+    "uz": "Mach soni"
+  },
+  {
+    "en": "Machine",
+    "ru": "Машина",
+    "uz": "Mashina"
+  },
+  {
+    "en": "Machine translation",
+    "ru": "Mashinaviy tarjima",
+    "uz": "Машинный перевод"
+  },
+  {
+    "en": "Machinery",
+    "ru": "Машинное оборудование",
+    "uz": "Mobil, mashina uskunalari"
+  },
+  {
+    "en": "Magnesium",
+    "ru": "Магний",
+    "uz": "Magniy"
+  },
+  {
+    "en": "Magnitude",
+    "ru": "Величина, Магнитуда",
+    "uz": "Kattalik, magnituda"
+  },
+  {
+    "en": "Maintainability",
+    "ru": "Ремонтопригодность",
+    "uz": "Texnik xizmatga yaroqlilik"
+  },
+  {
+    "en": "Maintenance",
+    "ru": "Ремонт/ обслуживание",
+    "uz": "Texnik xizmat"
+  },
+  {
+    "en": "Maintenance of directives",
+    "ru": "Сопровождение директив",
+    "uz": "Direktivalarni yuritish"
+  },
+  {
+    "en": "Maintenance log",
+    "ru": "Журнал обслуживания",
+    "uz": "Texnik xizmat jurnali"
+  },
+  {
+    "en": "Maintenance manual",
+    "ru": "Руководство по техническому обслуживанию",
+    "uz": "Texnik xizmat qo‘llanmasi"
+  },
+  {
+    "en": "Malfunction",
+    "ru": "Неисправность",
+    "uz": "noto‘g‘ri ishlash"
+  },
+  {
+    "en": "Manufacturer",
+    "ru": "Изготовитель",
+    "uz": "Ishlab chiqaruvchi"
+  },
+  {
+    "en": "Manufacturer serial number",
+    "ru": "Заводской номер",
+    "uz": "Ishlab chiqaruvchi zavod raqami"
+  },
+  {
+    "en": "Masonry heaters",
+    "ru": "Каменные обогреватели",
+    "uz": "Toshli isitgichlar"
+  },
+  {
+    "en": "Master of Engineering",
+    "ru": "Магистр инженерии",
+    "uz": "Muhandislik magistri"
+  },
+  {
+    "en": "Material",
+    "ru": "Материал",
+    "uz": "Material"
+  },
+  {
+    "en": "Materials engineering",
+    "ru": "Инженерия материалов",
+    "uz": "Materiallar muhandisligi"
+  },
+  {
+    "en": "Materials science",
+    "ru": "Материаловедение",
+    "uz": "Materialshunoslik"
+  },
+  {
+    "en": "Maximum altitude",
+    "ru": "Максимальная высота",
+    "uz": "Maksimal balandlik"
+  },
+  {
+    "en": "Measure",
+    "ru": "Измерять",
+    "uz": "O‘lchamoq"
+  },
+  {
+    "en": "Measurement unit",
+    "ru": "Единица измерения",
+    "uz": "O‘lchov birligi"
+  },
+  {
+    "en": "Measuring instrument",
+    "ru": "Контрольно- измерительный прибор",
+    "uz": "O‘lchov asbobi"
+  },
+  {
+    "en": "Mechanical properties",
+    "ru": "Механические свойства",
+    "uz": "Mexanik xossalar"
+  },
+  {
+    "en": "Mechanical energy",
+    "ru": "Механическая энергия",
+    "uz": "Mexanik energiya"
+  },
+  {
+    "en": "Medical device",
+    "ru": "Медицинское устройство",
+    "uz": "Tibbiy qurilma"
+  },
+  {
+    "en": "Medical imaging",
+    "ru": "Медицинская визуализация",
+    "uz": "Tibbiy tasvirlash"
+  },
+  {
+    "en": "Melt",
+    "ru": "Таять",
+    "uz": "Erimoq"
+  },
+  {
+    "en": "Member Body",
+    "ru": "Членская организация",
+    "uz": "a’zo tashkilot"
+  },
+  {
+    "en": "Metal film",
+    "ru": "Металлическая пленка",
+    "uz": "Metal plyonka"
+  },
+  {
+    "en": "Metal film resistor",
+    "ru": "Металлопленочный резистор",
+    "uz": "Metal plyonkali rezistor"
+  },
+  {
+    "en": "Metallurgical engineering",
+    "ru": "Металлургическая инженерия",
+    "uz": "Metallurgiya muhandisligi"
+  },
+  {
+    "en": "Metallurgy",
+    "ru": "Металлургия",
+    "uz": "Metallurgiya"
+  },
+  {
+    "en": "Metalworking",
+    "ru": "Обработка металлов",
+    "uz": "Metallga ishlov berish"
+  },
+  {
+    "en": "Methanol fuel cell",
+    "ru": "Топливный элемент на метаноле",
+    "uz": "Metanol yonilg‘i elementi"
+  },
+  {
+    "en": "Metric system",
+    "ru": "Метрическая система",
+    "uz": "Metrik tizim"
+  },
+  {
+    "en": "Microbial fuel cell",
+    "ru": "Микробный топливный элемент",
+    "uz": "Mikrobli yonilg‘i elementi"
+  },
+  {
+    "en": "Microcontroller",
+    "ru": "Микроконтроллер",
+    "uz": "Mikrokontroller"
+  },
+  {
+    "en": "Microwave",
+    "ru": "Микроволны",
+    "uz": "Mikroto‘lqinlar"
+  },
+  {
+    "en": "Mineral processing",
+    "ru": "Обогащение полезных ископаемых",
+    "uz": "Mineralni boyitish"
+  },
+  {
+    "en": "Mismatched loads",
+    "ru": "Несоответствующие нагрузки",
+    "uz": "Nomutanosib yuklama"
+  },
+  {
+    "en": "Mixing tank",
+    "ru": "Смесительная ёмкость",
+    "uz": "Aralashtirish idishi"
+  },
+  {
+    "en": "Modulation",
+    "ru": "Модуляция",
+    "uz": "Modulyatsiya"
+  },
+  {
+    "en": "Molten salt power plants",
+    "ru": "Электростанции на расплавленной соли",
+    "uz": "Eritilgan tuzli elektr stansiyalar"
+  },
+  {
+    "en": "Motion",
+    "ru": "Движение",
+    "uz": "Harakat"
+  },
+  {
+    "en": "Motor",
+    "ru": "Мотор",
+    "uz": "Dvigatel, motor"
+  },
+  {
+    "en": "Movable guard",
+    "ru": "подвижное ограждение",
+    "uz": "harakatlanuvchi to‘siq"
+  },
+  {
+    "en": "Moving water energy",
+    "ru": "Энергия движущейся воды",
+    "uz": "Harakatdagi suv energiyasi"
+  },
+  {
+    "en": "MRI (Magnetic Resonance Imaging)",
+    "ru": "МРТ (магнитно-резонансная томография)",
+    "uz": "MRT(magnit-rezonans tomografiya)"
+  },
+  {
+    "en": "MSDS / SDS - Material Safety Data Sheet / Safety Data Sheet",
+    "ru": "Паспорт безопасности материала",
+    "uz": "Material xavfsizligi pasporti"
+  },
+  {
+    "en": "Multilayer capacitor",
+    "ru": "Многослойный конденсатор",
+    "uz": "Ko‘p qatlamli kondensator"
+  },
+  {
+    "en": "Multiplexing",
+    "ru": "Мультиплексирование",
+    "uz": "Multiplekslash"
+  },
+  {
+    "en": "Municipal waste",
+    "ru": "Бытовые отходы",
+    "uz": "Maishiy chiqindilar"
+  },
+  {
+    "en": "Mutual inductance",
+    "ru": "Взаимная Индуктивность",
+    "uz": "O‘zaro Induktivlik"
+  },
+  {
+    "en": "Nacelle",
+    "ru": "Гондола",
+    "uz": "Gondola, tashqi qoplama"
+  },
+  {
+    "en": "Nameplate",
+    "ru": "Паспортная табличка",
+    "uz": "Pasportli plastinka"
+  },
+  {
+    "en": "National Committee",
+    "ru": "Национальный комитет",
+    "uz": "Milliy qo‘mita"
+  },
+  {
+    "en": "Navigation system",
+    "ru": "Навигационная система",
+    "uz": "Navigatsiya tizimi"
+  },
+  {
+    "en": "Network theory",
+    "ru": "Теория цепей",
+    "uz": "Tarmoqlar nazariyasi"
+  },
+  {
+    "en": "Neural engineering",
+    "ru": "Нейроинженерия",
+    "uz": "Neyromuhandislik"
+  },
+  {
+    "en": "Neutral style",
+    "ru": "Нейтральный стиль",
+    "uz": "Neytral uslub"
+  },
+  {
+    "en": "Niche application",
+    "ru": "Нишевое приложение",
+    "uz": "Nish ilovasi"
+  },
+  {
+    "en": "Nickel",
+    "ru": "Никель",
+    "uz": "Nikel"
+  },
+  {
+    "en": "Nitrogen",
+    "ru": "Азот",
+    "uz": "Azot"
+  },
+  {
+    "en": "Noise",
+    "ru": "Шум",
+    "uz": "Shovqin"
+  },
+  {
+    "en": "No-load speed",
+    "ru": "Частота вращения на холостом ходу",
+    "uz": "Bo‘sh ish tezligi"
+  },
+  {
+    "en": "Noncombustible",
+    "ru": "Негорючие",
+    "uz": "Yonuvchan bo‘lmagan"
+  },
+  {
+    "en": "Non-destructive testing",
+    "ru": "Неразрушающий контроль",
+    "uz": "Buzmasdan tekshirish"
+  },
+  {
+    "en": "Nonmagnetic applications",
+    "ru": "Немагнитные применения",
+    "uz": "Nomagnit qo‘llanilish"
+  },
+  {
+    "en": "Nonrenewable.",
+    "ru": "Невозобновляемый",
+    "uz": "Qayta tiklanmaydigan"
+  },
+  {
+    "en": "Nozzle",
+    "ru": "Сопло",
+    "uz": "Soplo / Suv chiqarish nozuli"
+  },
+  {
+    "en": "Nuclear decay",
+    "ru": "Ядерный распад",
+    "uz": "Yadro parchalanishi"
+  },
+  {
+    "en": "Nuclear energy",
+    "ru": "Ядерная энергия",
+    "uz": "Atom energiyasi"
+  },
+  {
+    "en": "Nuclear fission",
+    "ru": "Ядерное деление",
+    "uz": "Yadro bo‘linishi"
+  },
+  {
+    "en": "Nuclear fusion reaction",
+    "ru": "Реакция ядерного синтеза",
+    "uz": "Yadro sintez reaksiyasi"
+  },
+  {
+    "en": "Nuclear power",
+    "ru": "Атомная энергия",
+    "uz": "Atom energiyasi"
+  },
+  {
+    "en": "Nuclear power plant",
+    "ru": "Атомная электростанция",
+    "uz": "Atom elektr stansiyasi"
+  },
+  {
+    "en": "Nuclear reactions",
+    "ru": "Ядерные реакции",
+    "uz": "Yadro reaksiyalari"
+  },
+  {
+    "en": "Nucleic acids",
+    "ru": "Нуклеиновые кислоты",
+    "uz": "Nuklein kislotalar"
+  },
+  {
+    "en": "Ohm",
+    "ru": "Ом",
+    "uz": "Om"
+  },
+  {
+    "en": "Ohmmeter",
+    "ru": "Омметр",
+    "uz": "Ommetr"
+  },
+  {
+    "en": "OHS - Occupational Health and Safety",
+    "ru": "Охрана труда и техники безопасности",
+    "uz": "Mehnatni muhofaza qilish va xavfsizlik"
+  },
+  {
+    "en": "Oil circuit breakers",
+    "ru": "Масляные автоматические выключатели",
+    "uz": "Avtomatik moyli o‘chirgichlar"
+  },
+  {
+    "en": "Olive mills",
+    "ru": "Оливковые мельницы",
+    "uz": "Zaytun tegirmonlari"
+  },
+  {
+    "en": "Openness",
+    "ru": "Открытость",
+    "uz": "Ochiqlik"
+  },
+  {
+    "en": "Operate",
+    "ru": "Работать",
+    "uz": "Ishlamoq"
+  },
+  {
+    "en": "Operating conditions",
+    "ru": "Условия эксплуатации",
+    "uz": "Ishlash sharoitlari"
+  },
+  {
+    "en": "Operating environment",
+    "ru": "Рабочая среда",
+    "uz": "Ishchi muhit"
+  },
+  {
+    "en": "Operating pressure",
+    "ru": "Рабочее давление",
+    "uz": "Ish bosimi"
+  },
+  {
+    "en": "Operating temperature",
+    "ru": "Рабочая температура",
+    "uz": "Ishchi harorat"
+  },
+  {
+    "en": "Operating time",
+    "ru": "Наработка",
+    "uz": "Ishlash vaqti"
+  },
+  {
+    "en": "Operation current",
+    "ru": "Рабочий ток",
+    "uz": "Ishchi tok"
+  },
+  {
+    "en": "Optical coherence tomography",
+    "ru": "Оптическая когерентная томография",
+    "uz": "Optik koherent tomografiya"
+  },
+  {
+    "en": "Optical fiber",
+    "ru": "Оптоволокно",
+    "uz": "Optik tolali kabel"
+  },
+  {
+    "en": "Orbit",
+    "ru": "Орбита",
+    "uz": "Orbita"
+  },
+  {
+    "en": "Orbital mechanics",
+    "ru": "Орбитальная механика",
+    "uz": "Orbital mexanika"
+  },
+  {
+    "en": "Ore",
+    "ru": "Руда",
+    "uz": "Ruda"
+  },
+  {
+    "en": "Orebody",
+    "ru": "Рудное тело",
+    "uz": "Ruda koni"
+  },
+  {
+    "en": "Organic wastes",
+    "ru": "Органические отходы",
+    "uz": "Organik chiqindilar"
+  },
+  {
+    "en": "Outdoor",
+    "ru": "Открытый",
+    "uz": "Tashqi, ochiq"
+  },
+  {
+    "en": "Output power",
+    "ru": "Выходная мощность",
+    "uz": "Chiqish quvvati"
+  },
+  {
+    "en": "Overcurrent",
+    "ru": "Перегрузка по току",
+    "uz": "Tokning ortishi"
+  },
+  {
+    "en": "Owner",
+    "ru": "Владелец",
+    "uz": "Egası"
+  },
+  {
+    "en": "Pacemaker",
+    "ru": "Кардиостимулятор",
+    "uz": "Yurak stimulyatori"
+  },
+  {
+    "en": "Packet",
+    "ru": "Пакет данных",
+    "uz": "Ma’lumot paketi"
+  },
+  {
+    "en": "Packing certificate",
+    "ru": "Свидетельство об упаковывании",
+    "uz": "Qadoqlash guvohnomasi"
+  },
+  {
+    "en": "Parallel",
+    "ru": "Параллельно",
+    "uz": "Parallel"
+  },
+  {
+    "en": "Parallel circuit",
+    "ru": "Параллельная цепь",
+    "uz": "Elektr zanjirni parallel ulash"
+  },
+  {
+    "en": "Partial equivalent",
+    "ru": "Частичный эквивалент",
+    "uz": "Qisman ekvivalent"
+  },
+  {
+    "en": "Parts list",
+    "ru": "Перечень деталей",
+    "uz": "Detal ro‘yxati"
+  },
+  {
+    "en": "Passive devices",
+    "ru": "Пассивные устройства",
+    "uz": "Passiv qurilmalar"
+  },
+  {
+    "en": "Patent",
+    "ru": "Патент",
+    "uz": "Patent"
+  },
+  {
+    "en": "Patient monitoring",
+    "ru": "Мониторинг пациента",
+    "uz": "Bemor monitoringi"
+  },
+  {
+    "en": "Payload",
+    "ru": "Полезная нагрузка",
+    "uz": "Foydali yuk"
+  },
+  {
+    "en": "Penetration test",
+    "ru": "Капиллярная дефектоскопия",
+    "uz": "Kapillyar defektoskopiya"
+  },
+  {
+    "en": "Penstock",
+    "ru": "Напорный водовод",
+    "uz": "Bosimli suv quvuri"
+  },
+  {
+    "en": "Pentode",
+    "ru": "Пентод",
+    "uz": "Pentod"
+  },
+  {
+    "en": "Performance",
+    "ru": "Производительность",
+    "uz": "Ish unumdorligi"
+  },
+  {
+    "en": "Personal safety",
+    "ru": "Личная безопасность",
+    "uz": "Shaxsiy xavfsizlik"
+  },
+  {
+    "en": "PET (Positron Emission Tomography) imaging",
+    "ru": "ПЭТ (позитронно-эмиссионная томография) -сканирование",
+    "uz": "PET (pozitron-emission tomografiya) tasvirlash"
+  },
+  {
+    "en": "Pharmaceutical engineering",
+    "ru": "Фармацевтическая инженерия",
+    "uz": "Farmatsevtik muhandislik"
+  },
+  {
+    "en": "Photodynamic therapy",
+    "ru": "Фотодинамическая терапия",
+    "uz": "Fotodinamik terapiya"
+  },
+  {
+    "en": "Photoelectric cells",
+    "ru": "Пластина фотоэлементов",
+    "uz": "Fotoelementlar plastinkasi"
+  },
+  {
+    "en": "Phototube",
+    "ru": "Фото луга",
+    "uz": "Foto quvur"
+  },
+  {
+    "en": "Photovoltaic (pv) modules (photo = light, voltaic = electricity).",
+    "ru": "Фотоэлектрические модули (фото = свет, гальваника = электричество).",
+    "uz": "Fotoelektrik modullar (foto = yorug‘lik, galvanika (elektro qoplama) = elektr)."
+  },
+  {
+    "en": "Physical properties",
+    "ru": "Физические свойства",
+    "uz": "Fizik xossalar"
+  },
+  {
+    "en": "Pint",
+    "ru": "Пинта",
+    "uz": "Pinta"
+  },
+  {
+    "en": "Pipeline class",
+    "ru": "Категория трубопровода",
+    "uz": "Quvur liniyasi kategoriyasi"
+  },
+  {
+    "en": "Pipeline owner",
+    "ru": "Владелец трубопровода",
+    "uz": "Quvur egasi"
+  },
+  {
+    "en": "Pipeline registration",
+    "ru": "Регистрация трубопровода",
+    "uz": "Quvur ro‘yxatga olish"
+  },
+  {
+    "en": "Piping",
+    "ru": "Трубопровод",
+    "uz": "Quvur liniyasi"
+  },
+  {
+    "en": "Plant engineering",
+    "ru": "Машиностроение",
+    "uz": "Mashinasozlik"
+  },
+  {
+    "en": "Plate",
+    "ru": "Пластина",
+    "uz": "Plastina"
+  },
+  {
+    "en": "Pneumatic pressure",
+    "ru": "Пневматическое давление",
+    "uz": "Pnevmatik bosim"
+  },
+  {
+    "en": "Pneumatic test",
+    "ru": "Пневматическое испытание",
+    "uz": "Pnevmatik sinov"
+  },
+  {
+    "en": "Pole",
+    "ru": "Полюс",
+    "uz": "Qutb"
+  },
+  {
+    "en": "Polymers",
+    "ru": "Полимеры",
+    "uz": "Polimerlar"
+  },
+  {
+    "en": "Portable products",
+    "ru": "Портативные продукты",
+    "uz": "Portativ (ko‘chiriluvch)mahsulotlar"
+  },
+  {
+    "en": "Potential",
+    "ru": "Потенциал",
+    "uz": "Potensial"
+  },
+  {
+    "en": "Potentialdifference",
+    "ru": "Разность потенциалов",
+    "uz": "Potensiallar ayirmasi, farqi"
+  },
+  {
+    "en": "Pound",
+    "ru": "Фунт",
+    "uz": "Funt"
+  },
+  {
+    "en": "Powder processing",
+    "ru": "Порошковая металлургия",
+    "uz": "Kukunli metallurgiya"
+  },
+  {
+    "en": "Power (kW)",
+    "ru": "Мощность (кВт)",
+    "uz": "Quvvat (kVt)"
+  },
+  {
+    "en": "Power electronics",
+    "ru": "Силовая электроника",
+    "uz": "Quvvat elektronikasi"
+  },
+  {
+    "en": "Power factor",
+    "ru": "Фактор силы",
+    "uz": "Kuch omili"
+  },
+  {
+    "en": "Power loss",
+    "ru": "Потеря мощности",
+    "uz": "Quvvat isrofi"
+  },
+  {
+    "en": "Power transmission lines",
+    "ru": "Линии электропередачи",
+    "uz": "Elektr uzatish liniyalari"
+  },
+  {
+    "en": "Powerful magnet",
+    "ru": "Мощный магнит",
+    "uz": "Kuchli magnit"
+  },
+  {
+    "en": "PPE - Personal Protective Equipment",
+    "ru": "Средства индивидуальной защиты",
+    "uz": "Shaxsiy himoya vositalari"
+  },
+  {
+    "en": "Precious metals",
+    "ru": "Драгоценные металлы",
+    "uz": "Qimmatbaho metallar"
+  },
+  {
+    "en": "Pressure",
+    "ru": "Давление",
+    "uz": "Bosim"
+  },
+  {
+    "en": "Pressure relief valve",
+    "ru": "Предохранительный клапан",
+    "uz": "Bosimni pasaytiruvchi klapan"
+  },
+  {
+    "en": "Pressure vessel",
+    "ru": "Сосуд, работающий под давлением",
+    "uz": "Bosim ostida ishlovchi idish"
+  },
+  {
+    "en": "Pressurizedwater reactor",
+    "ru": "Реактор с водой под давлением",
+    "uz": "Bosimli suv reaktori"
+  },
+  {
+    "en": "Pressurizer",
+    "ru": "Компенсатор давления",
+    "uz": "Bosim kompensatori"
+  },
+  {
+    "en": "Preventive maintenance",
+    "ru": "Профилактическое обслуживание",
+    "uz": "Profilaktik texnik xizmat"
+  },
+  {
+    "en": "Primary circuit",
+    "ru": "Первичный контур",
+    "uz": "Birlamchi kontur"
+  },
+  {
+    "en": "procedure",
+    "ru": "процедура",
+    "uz": "tartib-taomil"
+  },
+  {
+    "en": "Procedure qualification records (PQR)",
+    "ru": "Технология сварки",
+    "uz": "Protsedura malaka yozuvlari"
+  },
+  {
+    "en": "Process pressure",
+    "ru": "Рабочее давление",
+    "uz": "Ish bosimi"
+  },
+  {
+    "en": "Professional Engineer",
+    "ru": "Профессиональный инженер",
+    "uz": "Professional muhandis"
+  },
+  {
+    "en": "Project management",
+    "ru": "Управление проектом",
+    "uz": "Loyiha boshqaruvi"
+  },
+  {
+    "en": "Propane",
+    "ru": "Пропан",
+    "uz": "Propan"
+  },
+  {
+    "en": "Property",
+    "ru": "Свойство",
+    "uz": "Xususiyat"
+  },
+  {
+    "en": "Propulsion system",
+    "ru": "Система тяги",
+    "uz": "Harakatlantiruvchi tizim"
+  },
+  {
+    "en": "Prosthesis",
+    "ru": "Протез",
+    "uz": "Protez"
+  },
+  {
+    "en": "Protective device",
+    "ru": "Защитное устройство",
+    "uz": "Himoya qurilmasi"
+  },
+  {
+    "en": "Protective equipment",
+    "ru": "Средства защиты",
+    "uz": "Himoya vositalari"
+  },
+  {
+    "en": "Protective measure",
+    "ru": "Защитная мера",
+    "uz": "Himoya choralari"
+  },
+  {
+    "en": "Proteins",
+    "ru": "Белки",
+    "uz": "Oqsillar"
+  },
+  {
+    "en": "Pumped-storage hydroelectricity",
+    "ru": "Накопительная гидроэлектроэнергия",
+    "uz": "To‘plovchi gidroelektroenergiya"
+  },
+  {
+    "en": "Pumped-storage hydropower plant",
+    "ru": "Гидроаккумулирующая электростанция",
+    "uz": "Nasosli gidroakkumulyator stansiya"
+  },
+  {
+    "en": "Pyrolysis",
+    "ru": "Пиролиз",
+    "uz": "Piroliz"
+  },
+  {
+    "en": "Pyrometallurgy",
+    "ru": "Пирометаллургия",
+    "uz": "Pirometallurgiya"
+  },
+  {
+    "en": "QA - Quality Assurance",
+    "ru": "Обеспечение качества",
+    "uz": "Sifatni ta’minlash"
+  },
+  {
+    "en": "QC - Quality Control",
+    "ru": "Контроль качества",
+    "uz": "Sifat nazorati"
+  },
+  {
+    "en": "Quality of life",
+    "ru": "Качество жизни",
+    "uz": "Hayot sifati"
+  },
+  {
+    "en": "Radar",
+    "ru": "Радар",
+    "uz": "Radar"
+  },
+  {
+    "en": "Radiant light",
+    "ru": "Сияющий свет",
+    "uz": "Yorqin nur"
+  },
+  {
+    "en": "Radio",
+    "ru": "Радио",
+    "uz": "Radio"
+  },
+  {
+    "en": "Radio waves",
+    "ru": "Радиоволны",
+    "uz": "Radioto‘lqinlar"
+  },
+  {
+    "en": "Radio-frequency (RF) power",
+    "ru": "Радиочастотная мощность",
+    "uz": "Radiochastotali quvvat"
+  },
+  {
+    "en": "Radiographic",
+    "ru": "Радиографический",
+    "uz": "Radiografik"
+  },
+  {
+    "en": "Radiographic test",
+    "ru": "Радиографический контроль",
+    "uz": "Radiografik sinov"
+  },
+  {
+    "en": "Radioisotope thermoelectric generator",
+    "ru": "Радиоизотопный термоэлектрический генератор",
+    "uz": "Radioizotopli termoelektrik generator"
+  },
+  {
+    "en": "Rate",
+    "ru": "Нормировать",
+    "uz": "Me’yorlashtirmoq"
+  },
+  {
+    "en": "Rated current",
+    "ru": "Номинальный ток",
+    "uz": "Nominal tok"
+  },
+  {
+    "en": "Rated torque",
+    "ru": "Номинальный крутящий момент",
+    "uz": "Nominal aylantiruvchi moment"
+  },
+  {
+    "en": "Rated voltage",
+    "ru": "Номинальное напряжение",
+    "uz": "Nominal kuchlanish"
+  },
+  {
+    "en": "Reactor",
+    "ru": "Реактор",
+    "uz": "Reaktor"
+  },
+  {
+    "en": "Reactor pressure vessel",
+    "ru": "Резервуар реактора",
+    "uz": "Reaktorning bosimli idishi"
+  },
+  {
+    "en": "Reactor’s cooling agent",
+    "ru": "Охлаждающий агент реактора",
+    "uz": "Reaktorning sovutish agenti"
+  },
+  {
+    "en": "Reasonably foreseeable misuse",
+    "ru": "Предсказуемое неправильное использование",
+    "uz": "Oldindan taxmin qilinadigan noto‘g‘ri foydalanish"
+  },
+  {
+    "en": "Receiver",
+    "ru": "Приемник",
+    "uz": "Qabul qiluvchi qurilma"
+  },
+  {
+    "en": "Receiving point",
+    "ru": "Приемная точка",
+    "uz": "Qabul qilish nuqtasi"
+  },
+  {
+    "en": "Reconstruction",
+    "ru": "Переустройство",
+    "uz": "Qayta qurish"
+  },
+  {
+    "en": "Rectification",
+    "ru": "Исправление",
+    "uz": "Tuzatish"
+  },
+  {
+    "en": "Recycling",
+    "ru": "Утилизация",
+    "uz": "Qayta ishlash"
+  },
+  {
+    "en": "Reduce",
+    "ru": "Уменьшать",
+    "uz": "Kamaytirmoq"
+  },
+  {
+    "en": "Re-entry",
+    "ru": "Вход в атмосферу",
+    "uz": "Atmosferaga qaytish"
+  },
+  {
+    "en": "Refinement",
+    "ru": "Рафинирование",
+    "uz": "Tozalash"
+  },
+  {
+    "en": "Reflex reflector",
+    "ru": "Светоотражатель",
+    "uz": "Reflektor"
+  },
+  {
+    "en": "Refractory",
+    "ru": "Огнеупорный",
+    "uz": "Olovga chidamli"
+  },
+  {
+    "en": "Registration number",
+    "ru": "Регистрационный номер",
+    "uz": "Ro‘yxat raqami"
+  },
+  {
+    "en": "Regulatory compliance",
+    "ru": "Нормативное соответствие",
+    "uz": "Normativ muvofiqlik"
+  },
+  {
+    "en": "Rehabilitation engineering",
+    "ru": "Реабилитационная инженерия",
+    "uz": "Reabilitatsiya muhandisligi"
+  },
+  {
+    "en": "Relay",
+    "ru": "Реле",
+    "uz": "Rele"
+  },
+  {
+    "en": "Releasing energy",
+    "ru": "Высвобождение энергии",
+    "uz": "Energiyani (ozod etish) chiqarish"
+  },
+  {
+    "en": "Relevance",
+    "ru": "Актуальность",
+    "uz": "Dolzarblik"
+  },
+  {
+    "en": "Relevant hazard",
+    "ru": "Существенная опасность",
+    "uz": "Tegishli xavf"
+  },
+  {
+    "en": "Reliability",
+    "ru": "Надежность",
+    "uz": "Ishonchlilik"
+  },
+  {
+    "en": "Reliable source",
+    "ru": "Надёжный источник",
+    "uz": "ishonchli manba"
+  },
+  {
+    "en": "Renewable",
+    "ru": "Возобновляемый",
+    "uz": "Qayta tiklanadigan"
+  },
+  {
+    "en": "Renewable energy",
+    "ru": "Возобновляемая энергия",
+    "uz": "Qayta tiklanuvchi energiya"
+  },
+  {
+    "en": "Renewable energy source",
+    "ru": "Возобновляемый источник энергии",
+    "uz": "Qayta tiklanadigan energiya manbai"
+  },
+  {
+    "en": "Renewable energy technologies",
+    "ru": "Технологии возобновляемой энергии",
+    "uz": "Qayta tiklanadigan energiya texnologiyalari"
+  },
+  {
+    "en": "Replenish",
+    "ru": "Пополнять",
+    "uz": "To‘ldirish"
+  },
+  {
+    "en": "requirements",
+    "ru": "Требования",
+    "uz": "Talablar"
+  },
+  {
+    "en": "Reservoir",
+    "ru": "Водохранилище",
+    "uz": "Suv ombori"
+  },
+  {
+    "en": "Reservoir hydropower plant",
+    "ru": "Плотинная гидроэлектростанция",
+    "uz": "Suv omborli GES"
+  },
+  {
+    "en": "Residual risk",
+    "ru": "Остаточный риск",
+    "uz": "Qoldiq xatar"
+  },
+  {
+    "en": "Resistance",
+    "ru": "Сопротивление",
+    "uz": "Qarshilik"
+  },
+  {
+    "en": "Resistor",
+    "ru": "Резистор",
+    "uz": "Резистор"
+  },
+  {
+    "en": "Respiratory protection",
+    "ru": "Защита органов дыхания",
+    "uz": "Nafas olishni himoya qilish"
+  },
+  {
+    "en": "Response times",
+    "ru": "Время ответа",
+    "uz": "Javob vaqti"
+  },
+  {
+    "en": "Risk",
+    "ru": "Риск",
+    "uz": "Xatar"
+  },
+  {
+    "en": "Risk reduction",
+    "ru": "Снижение риска",
+    "uz": "Xatarni kamaytirish"
+  },
+  {
+    "en": "Risk analysis",
+    "ru": "Анализ риска",
+    "uz": "Xatar tahlili"
+  },
+  {
+    "en": "Risk assessment",
+    "ru": "Оценка риска",
+    "uz": "Xatarni baholash"
+  },
+  {
+    "en": "Risk estimation",
+    "ru": "Оценка вероятности риска",
+    "uz": "Xatar ehtimolini aniqlash"
+  },
+  {
+    "en": "Risk evaluation",
+    "ru": "Оценка приемлемости риска",
+    "uz": "Xatarni baholash natijasi"
+  },
+  {
+    "en": "River flow",
+    "ru": "Речной поток",
+    "uz": "Daryo oqimi"
+  },
+  {
+    "en": "Rocket",
+    "ru": "Ракета",
+    "uz": "Raketa"
+  },
+  {
+    "en": "Rocket engine",
+    "ru": "Ракетный двигатель",
+    "uz": "Raket dvigateli"
+  },
+  {
+    "en": "Rotary motion",
+    "ru": "Вращательное движение",
+    "uz": "Aylanma xarakat"
+  },
+  {
+    "en": "Rotate",
+    "ru": "Повернуть",
+    "uz": "Buramoq"
+  },
+  {
+    "en": "Runner",
+    "ru": "Рабочее колесо турбины",
+    "uz": "Turbina ish g‘ildiragi"
+  },
+  {
+    "en": "Runner blades",
+    "ru": "Ход лопатки",
+    "uz": "Kurak xarakati"
+  },
+  {
+    "en": "Run-of-river plant",
+    "ru": "Русловая гидроэлектростанция",
+    "uz": "Oqim asosidagi GES"
+  },
+  {
+    "en": "Rural areas",
+    "ru": "Сельские районы",
+    "uz": "Qishloq hududlari"
+  },
+  {
+    "en": "Sacrificial device",
+    "ru": "Жертвенное устройство",
+    "uz": "Qurbon bo‘luvchi qurilma"
+  },
+  {
+    "en": "Safeguard",
+    "ru": "Защитное устройство",
+    "uz": "Himoya vositasi"
+  },
+  {
+    "en": "Safeguarding",
+    "ru": "Ограждение, защита",
+    "uz": "Himoyalash"
+  },
+  {
+    "en": "Safety",
+    "ru": "Безопасность",
+    "uz": "Xavfsizlik"
+  },
+  {
+    "en": "Safety function",
+    "ru": "Функция безопасности",
+    "uz": "Xavfsizlik funksiyasi"
+  },
+  {
+    "en": "Safety information",
+    "ru": "Информация по технике безопасности",
+    "uz": "Xavfsizlik ma’lumotlari"
+  },
+  {
+    "en": "Safety of machinery",
+    "ru": "Безопасность машин",
+    "uz": "mashinalar xavfsizligi"
+  },
+  {
+    "en": "Safety regulations",
+    "ru": "Правила безопасности",
+    "uz": "Xavfsizlik qoidalari"
+  },
+  {
+    "en": "Safety relief device",
+    "ru": "Предохранительное устройство",
+    "uz": "Bosimni tushiruvchi qurilma"
+  },
+  {
+    "en": "Safety requirements",
+    "ru": "Требования безопасности",
+    "uz": "Xavfsizlik talablari"
+  },
+  {
+    "en": "Satellite",
+    "ru": "Спутник",
+    "uz": "Sun’iy yo‘ldosh"
+  },
+  {
+    "en": "Satellite communication",
+    "ru": "Спутниковая связь",
+    "uz": "Sun’iy yo‘ldosh aloqasi"
+  },
+  {
+    "en": "Sawdust",
+    "ru": "Опилки",
+    "uz": "Qipiq"
+  },
+  {
+    "en": "Screen grid",
+    "ru": "Сетка экрана",
+    "uz": "Ekran panjarasi (to‘ri)"
+  },
+  {
+    "en": "Sealed glass",
+    "ru": "Герметичное стекло",
+    "uz": "Germetik (muhrlangan) shisha"
+  },
+  {
+    "en": "Seasonal variation",
+    "ru": "Сезонные изменения",
+    "uz": "Mavsumiy o‘zgarish"
+  },
+  {
+    "en": "Secondary emission",
+    "ru": "Вторичная эмиссия",
+    "uz": "Ikkilamchi emissiya"
+  },
+  {
+    "en": "Semiconductor",
+    "ru": "Полупроводник",
+    "uz": "Yarim o‘tkazgich"
+  },
+  {
+    "en": "Semiconductor devices",
+    "ru": "Полупроводниковые устройства",
+    "uz": "Yarim o‘tkazgich qurilmalar"
+  },
+  {
+    "en": "Separator",
+    "ru": "Сепаратор, разделитель",
+    "uz": "Separator, ajratgich"
+  },
+  {
+    "en": "Septic",
+    "ru": "Септический",
+    "uz": "Septik"
+  },
+  {
+    "en": "Serial Number",
+    "ru": "Заводской номер",
+    "uz": "Zavod raqami"
+  },
+  {
+    "en": "Series circuit",
+    "ru": "Последовательная цепь",
+    "uz": "Elektr zanjirni ketma-ket ulash"
+  },
+  {
+    "en": "Service lifetime",
+    "ru": "Срок службы",
+    "uz": "Xizmat muddati"
+  },
+  {
+    "en": "Sewage sludge",
+    "ru": "Осадок сточных вод",
+    "uz": "Kanalizatsiya loyi"
+  },
+  {
+    "en": "Shaft",
+    "ru": "Вал",
+    "uz": "Val, o‘q"
+  },
+  {
+    "en": "Shaft of the wind turbine",
+    "ru": "Вал ветряка",
+    "uz": "Shamol turbinasi vali"
+  },
+  {
+    "en": "Shell",
+    "ru": "Обечайка",
+    "uz": "Idish korpusi"
+  },
+  {
+    "en": "Short-circuits",
+    "ru": "Короткие замыкания",
+    "uz": "Qisqa tutashuv"
+  },
+  {
+    "en": "Shunt field winding",
+    "ru": "Шунтовая обмотка возбуждения",
+    "uz": "Qo‘zgatishning shuntli cho‘lg’ami"
+  },
+  {
+    "en": "Signal attenuation",
+    "ru": "Затухание сигнала",
+    "uz": "Signal susayishi"
+  },
+  {
+    "en": "Signal processing",
+    "ru": "Обработка сигналов",
+    "uz": "Signalni qayta ishlash"
+  },
+  {
+    "en": "Signal-to-noise ratio (SNR)",
+    "ru": "Отношение сигнал/шум",
+    "uz": "Signal-shovqin nisbati"
+  },
+  {
+    "en": "Significant hazard",
+    "ru": "Значительная опасность",
+    "uz": "muhim xavf"
+  },
+  {
+    "en": "Silicon",
+    "ru": "Кремний",
+    "uz": "Kremniy"
+  },
+  {
+    "en": "Silver",
+    "ru": "Серебро",
+    "uz": "Kumush"
+  },
+  {
+    "en": "Single crystal",
+    "ru": "Монокристалл",
+    "uz": "Monokristall"
+  },
+  {
+    "en": "Slaughterhouse",
+    "ru": "Бойня",
+    "uz": "Qassobxona"
+  },
+  {
+    "en": "Small-signal circuits",
+    "ru": "Слабосигнальные цепи",
+    "uz": "Zaif signal zanjirlari"
+  },
+  {
+    "en": "Smart device",
+    "ru": "Умное устройство",
+    "uz": "Aqlli qurilma"
+  },
+  {
+    "en": "Smelting",
+    "ru": "Плавка",
+    "uz": "Eritish"
+  },
+  {
+    "en": "SNP (Single Nucleotide Polymorphism)",
+    "ru": "Полиморфизм одного нуклеотида",
+    "uz": "Yakka nukleotid polimorfizmi"
+  },
+  {
+    "en": "Soapstone",
+    "ru": "Мыльный камень, стеатит",
+    "uz": "Sovunli tosh, steatit"
+  },
+  {
+    "en": "Solar ~ architecture ~ energy ~ heating ~ panel ~ thermal energy",
+    "ru": "Солнечная ~ архитектура ~ энергия ~ отопление ~ панель ~ тепловая энергия",
+    "uz": "Quyoshli ~ arxitektura ~ energiya ~ isitish ~ panel ~ issiqlik energiyasi"
+  },
+  {
+    "en": "Solar photovoltaic (PV)",
+    "ru": "Солнечная фотоэлектрическая энергия",
+    "uz": "Quyosh fotoelektr energiyasi"
+  },
+  {
+    "en": "Solid fuel",
+    "ru": "Твердое топливо",
+    "uz": "Qattiq yoqilg‘i"
+  },
+  {
+    "en": "Solution tank",
+    "ru": "Резервуар для раствора",
+    "uz": "Eritma idishi"
+  },
+  {
+    "en": "Source",
+    "ru": "Источник",
+    "uz": "Manba"
+  },
+  {
+    "en": "Space probe",
+    "ru": "Космический зонд",
+    "uz": "Kosmik zond"
+  },
+  {
+    "en": "Spacecraft",
+    "ru": "Космический аппарат",
+    "uz": "Kosmik apparat"
+  },
+  {
+    "en": "Speed change lever",
+    "ru": "Рычаг переключения скорости",
+    "uz": "Tezlik almashtirish tutqichi"
+  },
+  {
+    "en": "Spin",
+    "ru": "Вращаться",
+    "uz": "Aylantirish"
+  },
+  {
+    "en": "Splitting atoms",
+    "ru": "Расщепление атомов",
+    "uz": "Atomlarning bo‘linishi"
+  },
+  {
+    "en": "Splitting of nucleus",
+    "ru": "Расщепление ядра",
+    "uz": "Yadroning bo‘linishi"
+  },
+  {
+    "en": "Spring",
+    "ru": "Пружина",
+    "uz": "Prujina"
+  },
+  {
+    "en": "Stainless steel",
+    "ru": "Нержавеющая сталь",
+    "uz": "Zanglamaydigan po‘lat"
+  },
+  {
+    "en": "Stainless steel",
+    "ru": "Нержавеющая сталь",
+    "uz": "Zanglamas po‘lat"
+  },
+  {
+    "en": "Stall",
+    "ru": "Срыв потока",
+    "uz": "Oqim uzilishi"
+  },
+  {
+    "en": "Standardization",
+    "ru": "Стандартизация",
+    "uz": "Standartlashtirish"
+  },
+  {
+    "en": "Standing Document (SD)",
+    "ru": "постоянный документ",
+    "uz": "doimiy hujjat"
+  },
+  {
+    "en": "Starting current",
+    "ru": "Пусковой ток",
+    "uz": "Ishga tushirish toki"
+  },
+  {
+    "en": "Starting torque",
+    "ru": "Пусковой момент",
+    "uz": "Ishga tushirish momenti"
+  },
+  {
+    "en": "Stator",
+    "ru": "Статор",
+    "uz": "Stator"
+  },
+  {
+    "en": "Steam generator outlet plenum",
+    "ru": "Выходная камера парогенератора",
+    "uz": "Bug‘ generatorining chiqish kamerasi"
+  },
+  {
+    "en": "Steam-turbine",
+    "ru": "Паровая турбина",
+    "uz": "Bug‘ turbinasi"
+  },
+  {
+    "en": "Steel grade",
+    "ru": "Po‘lat markasi",
+    "uz": "Марка стали"
+  },
+  {
+    "en": "Stem cells",
+    "ru": "Стволовые клетки",
+    "uz": "Ildiz hujayralar"
+  },
+  {
+    "en": "Step down the voltage",
+    "ru": "Снижение напряжения",
+    "uz": "Kuchlanishni pasaytirish"
+  },
+  {
+    "en": "Storage battery",
+    "ru": "Аккумуляторная батарея",
+    "uz": "Akkumulator batareyasi"
+  },
+  {
+    "en": "Storage period",
+    "ru": "Срок хранения",
+    "uz": "Saqlash muddati"
+  },
+  {
+    "en": "Storage tank",
+    "ru": "Резервуар для хранения",
+    "uz": "Saqlash idishi"
+  },
+  {
+    "en": "Store electric charge",
+    "ru": "Хранить электрический заряд",
+    "uz": "Elektr zaryadini saqlash"
+  },
+  {
+    "en": "Stored energy",
+    "ru": "Накопленная энергия",
+    "uz": "To‘plangan energiya"
+  },
+  {
+    "en": "Stove Camp ~ Airtight ~ Cooking ~ Parlor ~ Portable ~ Railroad ~ Metal ~",
+    "ru": "Печь Переносная электр плита Герметичная печь Кухонная плита Гостиная печь Переносная плита Железнодорожная печь Металлическая печь",
+    "uz": "Pech Portativ elektr pech Germetik yopiq pech Oshxona pechkasi Yashash xonasi pechi Portativ plita Temir yo‘l pechi Metal pech"
+  },
+  {
+    "en": "Strength",
+    "ru": "Прочность",
+    "uz": "Mustahkamlik"
+  },
+  {
+    "en": "Stress",
+    "ru": "Напряжение",
+    "uz": "Mexanik zo‘riqish"
+  },
+  {
+    "en": "Strip",
+    "ru": "Полоска",
+    "uz": "Polosa"
+  },
+  {
+    "en": "Structural analysis",
+    "ru": "Структурный анализ",
+    "uz": "Konstruktiv tahlil"
+  },
+  {
+    "en": "Structural failure",
+    "ru": "Разрушение конструкции",
+    "uz": "Konstruktiv buzilish"
+  },
+  {
+    "en": "Structural integrity",
+    "ru": "Конструкционная прочность",
+    "uz": "Konstruktiv mustahkamlik"
+  },
+  {
+    "en": "Subject-matter expertise",
+    "ru": "Профессиональная компетенция, экспертные знания в определённой области",
+    "uz": "Mutaxassislik kompetensiyasi, sohaviy bilim"
+  },
+  {
+    "en": "Substation",
+    "ru": "Подстанция",
+    "uz": "Podstansiya"
+  },
+  {
+    "en": "Superalloys",
+    "ru": "Суперсплавы",
+    "uz": "Superqotishmalar"
+  },
+  {
+    "en": "Supersonic",
+    "ru": "Сверхзвуковой",
+    "uz": "Ovozdan tez"
+  },
+  {
+    "en": "Supply",
+    "ru": "Снабжать",
+    "uz": "Ta’minlamoq"
+  },
+  {
+    "en": "Suppressor grid",
+    "ru": "Глушитель сетки",
+    "uz": "Ovoz yoki shovqin pasaytiruvchi to‘r"
+  },
+  {
+    "en": "Surgical implants",
+    "ru": "Хирургические импланты",
+    "uz": "Jarrohlik implantlari"
+  },
+  {
+    "en": "Sustainable energy",
+    "ru": "Устойчивая энергия",
+    "uz": "Barqaror energiya"
+  },
+  {
+    "en": "Switch",
+    "ru": "Выключатель",
+    "uz": "O‘chirgich"
+  },
+  {
+    "en": "Switchgear buses",
+    "ru": "Шины КРУ подстанций",
+    "uz": "Podstansiyada komplekt taqsimlovchi uskuna shinalari"
+  },
+  {
+    "en": "Symmetrical position",
+    "ru": "Симметричное расположение",
+    "uz": "Simmetrik joylashuv"
+  },
+  {
+    "en": "Synthetic insulin",
+    "ru": "Синтетический инсулин",
+    "uz": "Sun’iy insulin"
+  },
+  {
+    "en": "Tail race",
+    "ru": "Отводящий канал",
+    "uz": "Suv chiqaruvchi kanal"
+  },
+  {
+    "en": "Tailings",
+    "ru": "Хвосты (обогащения)",
+    "uz": "Boyitish qoldig‘i"
+  },
+  {
+    "en": "Target text",
+    "ru": "Переводной текст",
+    "uz": "Tarjima matni"
+  },
+  {
+    "en": "TC - Technical Committee",
+    "ru": "Технический комитет",
+    "uz": "Texnik qo‘mita"
+  },
+  {
+    "en": "Technical cooperation",
+    "ru": "Техническое сотрудничество",
+    "uz": "Texnik hamkorlik"
+  },
+  {
+    "en": "Technical disagreement",
+    "ru": "Техническое разногласие",
+    "uz": "Texnik kelishmovchilik"
+  },
+  {
+    "en": "Technical Barriers to Trade (TBT)",
+    "ru": "Технические барьеры в торговле",
+    "uz": "Savdoda texnik to‘siqlar"
+  },
+  {
+    "en": "Technical documentation",
+    "ru": "Техническая документация",
+    "uz": "Texnik hujjatlar"
+  },
+  {
+    "en": "Technical drawing",
+    "ru": "Технический чертёж",
+    "uz": "Texnik chizma"
+  },
+  {
+    "en": "Technical features",
+    "ru": "Технические характеристики",
+    "uz": "Texnik xususiyatlari"
+  },
+  {
+    "en": "Technical passport",
+    "ru": "Технический паспорт",
+    "uz": "Texnik pasport"
+  },
+  {
+    "en": "Technical term",
+    "ru": "Технический термин",
+    "uz": "Texnik termin"
+  },
+  {
+    "en": "Technical terminology",
+    "ru": "Техническая терминология",
+    "uz": "Texnik terminologiya"
+  },
+  {
+    "en": "Technical translation",
+    "ru": "Технический перевод",
+    "uz": "Texnik tarjima"
+  },
+  {
+    "en": "Technical work",
+    "ru": "Техническая работа",
+    "uz": "Texnik ish"
+  },
+  {
+    "en": "Telecommunications",
+    "ru": "Телекоммуникации",
+    "uz": "Telekommunikatsiya"
+  },
+  {
+    "en": "Television screen",
+    "ru": "Телевизионный экран",
+    "uz": "Televizor ekrani"
+  },
+  {
+    "en": "Term usage",
+    "ru": "Употребление термина",
+    "uz": "Termin qo‘llanishi"
+  },
+  {
+    "en": "Terminal",
+    "ru": "Клемма",
+    "uz": "Klemma, qisqich"
+  },
+  {
+    "en": "Terminology",
+    "ru": "Терминология",
+    "uz": "Terminologiya"
+  },
+  {
+    "en": "Terminology accuracy",
+    "ru": "Терминологическая точность",
+    "uz": "Terminologik aniqlik"
+  },
+  {
+    "en": "Terminology consistency",
+    "ru": "Терминологическая последовательность",
+    "uz": "Terminologik izchillik"
+  },
+  {
+    "en": "Terminology bank",
+    "ru": "Терминологическая база",
+    "uz": "Termin banki"
+  },
+  {
+    "en": "Terminology database",
+    "ru": "Терминологическая база",
+    "uz": "Terminologik baza"
+  },
+  {
+    "en": "terminology system",
+    "ru": "Терминологическая система",
+    "uz": "Terminologik tizim"
+  },
+  {
+    "en": "Test pressure",
+    "ru": "Пробное давление",
+    "uz": "Sinov bosimi"
+  },
+  {
+    "en": "Test report",
+    "ru": "Отчёт об испытаниях",
+    "uz": "Sinov hisoboti"
+  },
+  {
+    "en": "Test results",
+    "ru": "Результаты испытаний",
+    "uz": "Sinov natijalari"
+  },
+  {
+    "en": "Testing pressure",
+    "ru": "Испытательное давление",
+    "uz": "Sinov bosimi"
+  },
+  {
+    "en": "Tetrode",
+    "ru": "Тетроде",
+    "uz": "Tetrode"
+  },
+  {
+    "en": "The load circuit",
+    "ru": "Нагрузка цепи",
+    "uz": "Zanjir yuklamasi"
+  },
+  {
+    "en": "Therapeutic device",
+    "ru": "Терапевтическое устройство",
+    "uz": "Davolash qurilmasi"
+  },
+  {
+    "en": "Therapeutic treatment",
+    "ru": "Терапевтическое лечение",
+    "uz": "Davolash jarayoni"
+  },
+  {
+    "en": "Therm",
+    "ru": "Терм",
+    "uz": "Term"
+  },
+  {
+    "en": "Thermal conversion",
+    "ru": "Тепловое преобразование",
+    "uz": "Issiqlik bilan o‘zgartirish, termal konversiya"
+  },
+  {
+    "en": "Thermal load",
+    "ru": "Тепловая нагрузка",
+    "uz": "Issiqlik yuklamasi"
+  },
+  {
+    "en": "Thermal processing",
+    "ru": "Термическая обработка",
+    "uz": "Issiqlik bilan ishlov"
+  },
+  {
+    "en": "Thermionic emission",
+    "ru": "Термоэлектронная эмиссия",
+    "uz": "Termoelektron emissiya"
+  },
+  {
+    "en": "Thermistor",
+    "ru": "Термистор",
+    "uz": "Termistor"
+  },
+  {
+    "en": "Thermocouple",
+    "ru": "Термопара",
+    "uz": "Termojuft"
+  },
+  {
+    "en": "Throughput",
+    "ru": "Эффективная скорость передачи",
+    "uz": "Samarali uzatish tezligi"
+  },
+  {
+    "en": "Thrust",
+    "ru": "Тяга",
+    "uz": "Tortish kuchi"
+  },
+  {
+    "en": "Thyratron",
+    "ru": "Тиратрон",
+    "uz": "Tiratron"
+  },
+  {
+    "en": "Tight",
+    "ru": "Жесткий",
+    "uz": "Qattiq"
+  },
+  {
+    "en": "Tile",
+    "ru": "Кафельная плитка",
+    "uz": "Kafel plitkasi"
+  },
+  {
+    "en": "Time Division Multiplexing",
+    "ru": "Временное мультиплексирование",
+    "uz": "Vaqt bo‘yicha multiplekslash"
+  },
+  {
+    "en": "Tissue engineering",
+    "ru": "To‘qima muhandisligi",
+    "uz": "Тканевая инженерия"
+  },
+  {
+    "en": "Tissue regeneration",
+    "ru": "Регенерация тканей",
+    "uz": "To‘qima regeneratsiyasi"
+  },
+  {
+    "en": "Titanium alloys",
+    "ru": "Титановые сплавы",
+    "uz": "Titan qotishmalari"
+  },
+  {
+    "en": "Torque force",
+    "ru": "Крутящий момент",
+    "uz": "Aylantirish kuchi"
+  },
+  {
+    "en": "Torrefaction",
+    "ru": "Торрефикация",
+    "uz": "Torrefaksiya"
+  },
+  {
+    "en": "TR - Technical Report",
+    "ru": "Технический отчёт",
+    "uz": "Texnik hisobot"
+  },
+  {
+    "en": "Transceiver",
+    "ru": "Приемопередатчик",
+    "uz": "Qabul-uzatgich"
+  },
+  {
+    "en": "Transfer energy",
+    "ru": "Передача энергии",
+    "uz": "Energiyani uzatish"
+  },
+  {
+    "en": "Transfer pump",
+    "ru": "Перекачивающий насос",
+    "uz": "Peristaltik nasos"
+  },
+  {
+    "en": "Transformation",
+    "ru": "Трансформация",
+    "uz": "O‘zgartirish, transformatsiyalash"
+  },
+  {
+    "en": "Transformer Step-down ~ Step-up ~ Two-winding ~",
+    "ru": "Трансформатор Понижающий ~ Повышающий ~ Двухобмоточный ~",
+    "uz": "Transformator Pasaytiruvchi~ Kuchaytiruvchi ~ Ikki chulg‘amli ~"
+  },
+  {
+    "en": "Transformer",
+    "ru": "Трансформатор",
+    "uz": "Transformator"
+  },
+  {
+    "en": "Transistor",
+    "ru": "Транзистор",
+    "uz": "Tranzistor"
+  },
+  {
+    "en": "Translation error",
+    "ru": "Ошибка перевода",
+    "uz": "Tarjima xatosi"
+  },
+  {
+    "en": "Translation tools",
+    "ru": "Инструменты перевода",
+    "uz": "Tarjima vositalari"
+  },
+  {
+    "en": "Translator competence",
+    "ru": "Компетенция переводчика",
+    "uz": "Tarjimon kompetensiyasi"
+  },
+  {
+    "en": "Transliteration",
+    "ru": "Транслитерация",
+    "uz": "Transliteratsiya"
+  },
+  {
+    "en": "Transmission channel",
+    "ru": "Канал передачи",
+    "uz": "Uzatish kanali"
+  },
+  {
+    "en": "Transmission medium",
+    "ru": "Среда передачи",
+    "uz": "Uzatish muhiti"
+  },
+  {
+    "en": "Transmission of information",
+    "ru": "Передача информации",
+    "uz": "Axborotni uzatish"
+  },
+  {
+    "en": "Transmitter",
+    "ru": "Передатчик",
+    "uz": "Uzatgich"
+  },
+  {
+    "en": "Transmitting",
+    "ru": "Передача",
+    "uz": "Uzatish"
+  },
+  {
+    "en": "Transparency",
+    "ru": "Прозрачность",
+    "uz": "Shaffoflik"
+  },
+  {
+    "en": "Trigger",
+    "ru": "Курок",
+    "uz": "Tepki, trigger"
+  },
+  {
+    "en": "Triode",
+    "ru": "Триод",
+    "uz": "Triod"
+  },
+  {
+    "en": "Trouble",
+    "ru": "Авария",
+    "uz": "Шикастланиш"
+  },
+  {
+    "en": "Troubleshooting",
+    "ru": "Поиск неисправностей",
+    "uz": "Nosozliklarni aniqlash"
+  },
+  {
+    "en": "TS - Technical Specification",
+    "ru": "Техническая спецификация",
+    "uz": "Texnik spetsifikatsiya"
+  },
+  {
+    "en": "Turbine",
+    "ru": "Турбина",
+    "uz": "Turbina"
+  },
+  {
+    "en": "Turbine blades",
+    "ru": "Лопасти турбины",
+    "uz": "Turbina pichoqlari"
+  },
+  {
+    "en": "Turbine runner",
+    "ru": "Рабочее колесо турбины",
+    "uz": "Turbina ish g‘ildiragi"
+  },
+  {
+    "en": "Turbine runner shaft",
+    "ru": "Вал рабочего колеса турбины",
+    "uz": "Turbina ishchi gildiragining o‘qi"
+  },
+  {
+    "en": "Turbine shaft",
+    "ru": "Вал турбины",
+    "uz": "Turbina vali"
+  },
+  {
+    "en": "Turbine's blades spin clockwise",
+    "ru": "Лопасти турбины вращаются по часовой стрелке",
+    "uz": "Turbina kuraklari soat yo‘nalishi bo‘yicha aylanadi"
+  },
+  {
+    "en": "Turbofan engine",
+    "ru": "Турбовентиляторный двигатель",
+    "uz": "Turbofan dvigatel"
+  },
+  {
+    "en": "Turn",
+    "ru": "Витка",
+    "uz": "O‘ram"
+  },
+  {
+    "en": "Twisted pair cable",
+    "ru": "Витая пара",
+    "uz": "O‘ralgan juft kabel"
+  },
+  {
+    "en": "Ultrasound",
+    "ru": "Ультразвук",
+    "uz": "Ultrasonografiya"
+  },
+  {
+    "en": "Unexpected start-up",
+    "ru": "Непреднамеренный пуск",
+    "uz": "Kutilmagan ishga tushish"
+  },
+  {
+    "en": "Unguided media",
+    "ru": "Ненаправляемая среда",
+    "uz": "Yo‘naltirilmagan muhit"
+  },
+  {
+    "en": "Upgrade",
+    "ru": "Обновление",
+    "uz": "Yangilash"
+  },
+  {
+    "en": "Upper reservoir",
+    "ru": "Верхний водоём",
+    "uz": "Yuqori suv ombori"
+  },
+  {
+    "en": "Usability",
+    "ru": "Удобство использования",
+    "uz": "Foydalanish qulayligi"
+  },
+  {
+    "en": "User manual",
+    "ru": "Foydalanuvchi qo‘llanmasi",
+    "uz": "Руководство пользователя"
+  },
+  {
+    "en": "Utility grid",
+    "ru": "Коммунальная сеть",
+    "uz": "Kommunal tarmoq"
+  },
+  {
+    "en": "Vacuum",
+    "ru": "Вакуум",
+    "uz": "Vakuum"
+  },
+  {
+    "en": "Vacuum tube",
+    "ru": "Электронная лампа",
+    "uz": "Elektr chiroq"
+  },
+  {
+    "en": "Variable speed trigger",
+    "ru": "O‘zgaruvchan tezlik tugmasi",
+    "uz": "Кнопка регулировки скорости"
+  },
+  {
+    "en": "Vehicle",
+    "ru": "Транспортное средство",
+    "uz": "Transport vositasi"
+  },
+  {
+    "en": "Vehicle centerline",
+    "ru": "Центральная линия авто",
+    "uz": "Transport vositasi markaz chizig‘i"
+  },
+  {
+    "en": "Vehicle inspection",
+    "ru": "Осмотр транспортного средства",
+    "uz": "Transport vositasini tekshirish"
+  },
+  {
+    "en": "Vehicle operation",
+    "ru": "Эксплуатация автомобиля",
+    "uz": "Transport vositasini ishlatish"
+  },
+  {
+    "en": "Velocity",
+    "ru": "Скорость",
+    "uz": "Tezlik, jadallik"
+  },
+  {
+    "en": "Vessel",
+    "ru": "Сосуд",
+    "uz": "Idish"
+  },
+  {
+    "en": "Viable",
+    "ru": "Жизнеспособный",
+    "uz": "Yashovchan"
+  },
+  {
+    "en": "Vienna Agreement",
+    "ru": "Венское соглашение",
+    "uz": "Vena kelishuvi"
+  },
+  {
+    "en": "Visual inspection",
+    "ru": "Визуальный контроль",
+    "uz": "Vizual tekshiruv"
+  },
+  {
+    "en": "VLSI (Very Large Scale Integration)",
+    "ru": "Сверхбольшая интегральная схема",
+    "uz": "Juda katta integratsiya"
+  },
+  {
+    "en": "Volt",
+    "ru": "Вольт",
+    "uz": "Volt"
+  },
+  {
+    "en": "Voltage ~ drop ~ source Value of ~ ~ source",
+    "ru": "Напряжения Падение ~ Источник ~ Значение ~ Источник ~",
+    "uz": "Kuchlanish ~ ning pasayishi ~ manbai ~ қиймати ~ манбаи"
+  },
+  {
+    "en": "Voltage (V)",
+    "ru": "Напряжение (В)",
+    "uz": "Kuchlanish (V)"
+  },
+  {
+    "en": "Voltage output",
+    "ru": "Выходное напряжение",
+    "uz": "Chiqish kuchlanishi"
+  },
+  {
+    "en": "Voltageratings",
+    "ru": "Номинальное напряжение",
+    "uz": "Nominal kuchlanish"
+  },
+  {
+    "en": "Voltmeter",
+    "ru": "Вольтметр",
+    "uz": "Voltmetr"
+  },
+  {
+    "en": "Volume",
+    "ru": "Объем",
+    "uz": "Hajm"
+  },
+  {
+    "en": "Wall thickness",
+    "ru": "Devor qalinligi",
+    "uz": "Толщина стенки"
+  },
+  {
+    "en": "WAN",
+    "ru": "Глобальная сеть",
+    "uz": "Keng hududli tarmoq"
+  },
+  {
+    "en": "Warning",
+    "ru": "Предупреждение",
+    "uz": "Ogohlantirish"
+  },
+  {
+    "en": "Warranty",
+    "ru": "Гарантия",
+    "uz": "Kafolat"
+  },
+  {
+    "en": "Waste heat",
+    "ru": "Отработанное тепло",
+    "uz": "Ishlangan issiqlik"
+  },
+  {
+    "en": "Water head",
+    "ru": "Напор воды",
+    "uz": "Suv bosimi"
+  },
+  {
+    "en": "Water inflow",
+    "ru": "Приток воды",
+    "uz": "Suv oqib kelishi"
+  },
+  {
+    "en": "Water jet",
+    "ru": "Струя воды",
+    "uz": "Suv oqimi"
+  },
+  {
+    "en": "Water storage",
+    "ru": "Накопление воды",
+    "uz": "Suvni to‘plash"
+  },
+  {
+    "en": "Water turbine",
+    "ru": "Водяная турбина",
+    "uz": "Gidravlik turbina"
+  },
+  {
+    "en": "Water wheel",
+    "ru": "Водяное колесо",
+    "uz": "Suv g‘ildiragi"
+  },
+  {
+    "en": "Watermill",
+    "ru": "Водяная мельница",
+    "uz": "Suv tegirmoni"
+  },
+  {
+    "en": "Watt",
+    "ru": "Ватт",
+    "uz": "Vatt"
+  },
+  {
+    "en": "WD - Working Draft",
+    "ru": "Рабочий проект",
+    "uz": "Ishchi loyiha"
+  },
+  {
+    "en": "Weak current",
+    "ru": "Слабый ток",
+    "uz": "Zaif tok oqimi"
+  },
+  {
+    "en": "Welder performance qualification test report (WQR)",
+    "ru": "Документы, подтверждающие квалификацию сварщиков",
+    "uz": "Payvandchi malaka sinovi hisobot"
+  },
+  {
+    "en": "Welding",
+    "ru": "Сварка",
+    "uz": "Payvandlash"
+  },
+  {
+    "en": "Welding procedure",
+    "ru": "Процедура сварки",
+    "uz": "Payvandlash protsedurasi"
+  },
+  {
+    "en": "Welding procedure specification (WPS)",
+    "ru": "Спецификация процедуры сварки",
+    "uz": "Payvandlash protsedurasi spetsifikatsiyasi"
+  },
+  {
+    "en": "Wind",
+    "ru": "Ветер",
+    "uz": "Shamol"
+  },
+  {
+    "en": "Wind energy",
+    "ru": "Ветровая энергия",
+    "uz": "Shamol energiyasi"
+  },
+  {
+    "en": "Wind turbines",
+    "ru": "Ветряные турбины",
+    "uz": "Shamol turbinalari"
+  },
+  {
+    "en": "Winding Primary~",
+    "ru": "Обмотка Первичная ~",
+    "uz": "Cho‘lg‘am Birlamchi ~"
+  },
+  {
+    "en": "Wing",
+    "ru": "Крыло",
+    "uz": "Qanot"
+  },
+  {
+    "en": "Wing span",
+    "ru": "Размах крыла",
+    "uz": "Qanot yoyilishi"
+  },
+  {
+    "en": "Wire",
+    "ru": "Провод",
+    "uz": "Sim, o‘tkazgich"
+  },
+  {
+    "en": "Wire conductor",
+    "ru": "Проводник",
+    "uz": "O‘tkazgich"
+  },
+  {
+    "en": "Wired communication",
+    "ru": "Проводная связь",
+    "uz": "Simli aloqa"
+  },
+  {
+    "en": "Wireless communication",
+    "ru": "Беспроводная связь",
+    "uz": "Simsiz aloqa"
+  },
+  {
+    "en": "Wireless network",
+    "ru": "Беспроводная сеть",
+    "uz": "Simsiz tarmoq"
+  },
+  {
+    "en": "Wood fuel",
+    "ru": "Древесное топливо",
+    "uz": "Yog‘och yoqilg‘isi"
+  },
+  {
+    "en": "Work area safety",
+    "ru": "Безопасность рабочей зоны",
+    "uz": "Ish joyi xavfsizligi"
+  },
+  {
+    "en": "Workflow",
+    "ru": "Рабочий процесс",
+    "uz": "Ish jarayoni"
+  },
+  {
+    "en": "Working wall temperature",
+    "ru": "Рабочая температура стенки",
+    "uz": "Ishchi devor harorati"
+  },
+  {
+    "en": "World Trade Organization (WTO)",
+    "ru": "Всемирная торговая организация (ВТО)",
+    "uz": "Jahon savdo tashkiloti (JST)"
+  },
+  {
+    "en": "Year of manufacture",
+    "ru": "Год изготовления",
+    "uz": "Ishlab chiqarilgan yili"
+  },
+  {
+    "en": "Yield",
+    "ru": "Производить",
+    "uz": "Ishlab chiqarmoq"
+  },
+  {
+    "en": "Zero equivalent",
+    "ru": "Нулевой эквивалент",
+    "uz": "Nol ekvivalent"
+  }
+]
