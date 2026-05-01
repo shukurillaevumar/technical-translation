@@ -12,7 +12,7 @@ export default function TranslatorHero({ total }: Props) {
       </div>
 
       <h1 className="max-w-4xl text-4xl font-black leading-tight text-slate-900 md:text-6xl">
-        Терминологический переводчик
+        Терминологический переводчик минимум
         <span className="mt-2 block bg-linear-to-r from-pink-500 via-indigo-500 to-emerald-500 bg-clip-text text-transparent">
           EN / RU / UZ
         </span>
